@@ -23,7 +23,8 @@ What have these brands in common?
 - Nokia
 Answer: all of these one-great-industry-dominant companies that were unable to adapt to rapid technological change 
 
-*Irridium effect*
+*Iridium moment* --> using linear tools and the trends of the past to predict an accelerating future.
+
 ---
 
 # New breed of institutional organism: *the exponential organization(ExO)*
