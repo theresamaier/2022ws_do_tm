@@ -1,7 +1,7 @@
  
  
  # Welcome to my blog on exponential organizations.
- ***Learn more about what's behind the Iridium Moment and why organizations should strive to become a unicorn :unicorn: company . Enjoy reading.***
+ ***Learn more about what's behind the Iridium Moment and why organizations should strive to become a unicorn :unicorn: company . Enjoy reading.*** tesdt
 
 ## Have you ever heard of the Iridium Moment? 
 ![Iridium_Google_ExO](Iridium_Google_ExO.jpeg) 
