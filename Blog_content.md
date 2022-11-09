@@ -1,7 +1,7 @@
  
  
  # Welcome to my blog on exponential organizations.
- ***Learn more about what's behind the Iridium Moment and why organizations should strive to become a unicorn :unicorn: company . Enjoy reading.*** tesdt
+ ***Learn more about what's behind the Iridium Moment and why organizations should strive to become a unicorn :unicorn: company . Enjoy reading.*** 
 
 ## Have you ever heard of the Iridium Moment? 
 ![Iridium_Google_ExO](Iridium_Google_ExO.jpeg) 
@@ -60,7 +60,7 @@ So if we look back now at the tremendous upheavals that have taken place in the 
 | The speed with which new companies reach market capitalization has risen sharply, but the lifespan of company is going to become shorter and shorter. |
 |--|
 
-![Market_cap_to_a_Billion](Market_cap.png) ![Lifespan_Decrease](Lifespan_decrease.jpeg)
+![Market_cap_to_a_Billion_Lifespan_Decrease](Draft1.jpg)
 
 Examples: YouTube went from a startup funded by Chad Hurley’s personal credit cards to being purchased by Google for $1.4 billion, all in less than eighteen months. Groupon leapt from conception to $6 billion in value in less than two years. Uber is valued at almost $17 billion, ten times its value of just two years ago.
 - *In ten years, 40 percent of existing Fortune 500 Companies would no longer survive.*
