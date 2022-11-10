@@ -87,7 +87,7 @@ An Exponential Organization (ExO :rocket:) is one *"whose <span style="color:red
  1. **"Rent, Don’t own Access resources you don’t own"**: *ExOs rather use external resources than owning their own assets or workforce.*
  2. **"Information accelerates everything and is therefore your greatest asset"**. *(information-based environment delivers fundamentally disruptive opportunities)* 
 
- To summarize it: ExOs are built upon <span style="color:red">information technologies</span> that take what was once physical in nature and dematerialize it into the digital, on-demand world.In doing so, they're able to scale their business strategies, culture, organizational frameworks and purpose at the same rate as the technology, i.e. one that follows an exponential curve.
+ To summarize it: ExOs are built upon <span style="color:red">information technologies</span> that take what was once physical in nature and dematerialize it into the digital, on-demand world. In doing so, they're able to scale their business strategies, culture, organizational frameworks and purpose at the same rate as the technology, i.e. one that follows an exponential curve.
  
 ## Characteristics:
 
@@ -169,7 +169,7 @@ SCALE Attribute| Algorithm |Community & Crowd
 
 
 ### <span style="color:red">**D**</span>ashboards 
-A real-time, adaptable dashboard is important for ExOs to better measure and manage. True value metrics such as repeat usage, retention percentage, monetization, and Net Promoter Score (NPS) are important today. A data-based goal management method is Objective and Key Results. Never heard of the OKR method - here come some facts!
+A real-time, adaptable dashboard is important for ExOs to better measure and manage particularly in regard to the growing amount of data to be stored each year . True value metrics such as repeat usage, retention percentage, monetization, and Net Promoter Score (NPS) are important today, because they can be very useful for companies as KPIs. A data-based goal management method is Objective and Key Results. Never heard of the OKR method - here come some facts!
 
 |OKR method: |
 |--|
@@ -187,20 +187,13 @@ Nowadays thousands of companies successfully implemented OKRs: Scout 24, ProSieb
 **Example of an OKR from SpaceX:** Strategic level: O: "We have due built first sustainable city on Mars"; KR for Mars mission goal: "We raised 2.5 billion euros for our first unit of wle space travel." . - Project level: I: We launched a crowdfunding campaign on Kickstarter. 
 
 ### <span style="color:red">**E**</span>xperimentation
-This refers to the testing of assumptions and constant experimentation with controlled risks. You may already be familiar with this from the start-up environment, such as the [lean startup methodology](https://www.universitylabpartners.org/blog/what-is-lean-startup-methodology). It involves a continuous loop of building (ideas), measuring (code), learning (data) and thus a continuous improvement process, as proposed by Kaizen. Also the prototyping (Eric Ries) in which a Mininmum-Viable Product is built on which then the iteration loops start is to be emphasized in this context. 
+This refers to the testing of assumptions and constant experimentation with controlled risks. This allows processes to be adapted to the rapidly changing external factors and huge anjd quick learnings. You may already be familiar with this from the start-up environment, such as the [lean startup methodology](https://www.universitylabpartners.org/blog/what-is-lean-startup-methodology). It involves a continuous loop of  (ideas) building, (code) measuring, (data) learning and thus a continuous improvement process, as proposed by Kaizen. Also the prototyping (Eric Ries) in which a Mininmum-Viable Product is built on which then the iteration loops start is to be emphasized in this context. In general, this enables faster time to a product launch. Thus, experimentation can help maximize value creation in different ways. 
 
 ### <span style="color:red">**A**</span>utonomy
-        * self-organizing, multi-disciplinary teams operating with decentralized authority.
-        * They are also encouraged to start new projects, so long as they fit the company’s MTP. Autonomy is a prerequisite for permissionless innovation.
+Autonomy was describes by Ismail as self-organizing, multi-disciplinary teams operating with decentralized authority.in ExOs employees should be encouraged to start new projects, so long as they fit the company’s MTP. Thereby, Autonomy is becoming a prerequisite for permissionless innovation.
 
  ### <span style="color:red">**S**</span>ocial Technologies
-        * create horizontal interactions in vertically organized companies.
-        * Social Technologies are comprised of seven key elements: Social objects, Activity streams, Task management, File sharing, Telepresence, Virtual worlds and Emotional sensing. When implemented, these elements create transparency and connectedness and, most importantly, lower an organization’s information latency.
-        * Priestley’s equation for social business is: CONNECTION + ENGAGEMENT + TRUST + TRANSPARENCY.
-        * three key objectives (according to J.P. Rangaswami): 
-            * Reduce the distance between obtaining (and processing) information and decision-making
-            * Migrate from having to look up information to having it flow through your perception. 
-            * Leverage community to build out ideas.
+Social technologies create horizontal interactions in vertically organized companies. They foster the speed of decision cycles, learning, and are able to stabilize the team during rapid growth.  Social technologies are composed of seven key elements: Social objects, activity streams, task management, file sharing, telepresence, virtual worlds, and emotional awareness. When implemented, these elements create transparency and connectedness, and most importantly, reduce an organization's information latency. According to Priestleys equation, a social business requires an interplay of connection, engagement, trust and transparency. J.P. Rangaswami sees shortening the time between acquiring (and processing) information and making decisions, shifting from the need to look up information to the flow of information through your perceptions, and using community to develop ideas as three main goals of social technologies.
 
 
 
@@ -208,11 +201,14 @@ This refers to the testing of assumptions and constant experimentation with cont
 
 
 
+## Exponential Organizations 
 
 
+While reading the characteristics, you must have already thought of several companies. Using the characteristics of ExO, Ismail et al. have developed a diagnostic that can help you assess and analyze your organization. Implementing four or more ExO attributes can lead to a 10-fold increase in performance.
 
+Let's take a look at the findings of the company's diagnostics regarding ExO: 
 
-## Some ExOs examples:
+### Some ExOs examples:
 
 
 Examples for exponential organizations: 
@@ -225,8 +221,47 @@ Examples for exponential organizations:
 - Netflix
 
 
+## How i became exponential 
+Companies can either start as ExO but also existing companies could also take advantage of the ExO philosophy and thus go exponentially.
 
+### Guidance for the foundation of an exponential organization 
 
+1. Select an MTP (Massive Transformative Purpose).
+2. Join or Create Relevant MTP Communities
+3. Compose a Team - (optimally four people). We recommend a visionary, UX expert, engineering guru and a business/finance expert.
+4. Breakthrough Idea - that delivers a minimum 10x improvement over the status quo. Let’s note that we don’t begin with the core idea — that way you’re not tied to a particular solution, but rather the problem space.
+5. Build a Business Model Canvas
+6. Find a Business Model
+    * Kelly identified the following eight ways to build a business model when the underlying information is free (list offers a set of working business models for an information age)
+        * Immediacy
+        * Personalization 
+        * Interpretation
+        * Authenticity
+        * Accessibility
+        * Embodiment 
+        * Patronage 154
+        * Findability 
+7. Build the MVP - But they iterated rapidly with initial customer data and were ultimately successful.
+8. Validate Marketing and Sales
+9. Implement SCALE and IDEAS
+10. Establish the Culture
+11. Ask Key Questions Periodically
+12. Building and Maintaining a Platform - Aim to be a platform. Successful ExOs (Apple, Google, Amazon) are all platforms. Companies that didn’t achieve that (Yahoo, Blackberry, Nokia) ended up in trouble.
+
+### What is a large and established organization to do? Answer: Transform
+
+### Mid-market companies 
+Unlike startups (where you can build all of the internal operations from scratch around exponential growth), with established established companies, the solution is inevitably customized: you must start with what already exists and build from there. In other words, there is no universal template for “going exponential.”
+
+As an example, let's take a look at GutHub here. This shows that a company that did not start exponentially has now become one of the top exponential companies. 
+
+GitHub - An open source coding and collaboration tool and platform-  was founded by Chris Wanstrath, P.J. Hyett and Tom Preston-Wernerin 2008. It is a social network for programmers in which people and their collaborations are central, rather than just the code itself. When a developer submits code to a GitHub project, that code is reviewed and commented upon by other developers, who also rate that developer. GitHub’s coding environment has instant messaging embedded within it, along with a distributed version control system (instead of a central code repository). In practice, what that means is you don’t need a server; you have everything you need locally, and can start coding without first needing to get permission. And you can do so anywhere, even offline. GitHub has successfully transformed the open source community by implementing virtually all of the ExO principles. 
+
+In six years, the company has created a community of more than six million developers working collaboratively on more than fifteen million open source software projects. Even more important is that in Silicon Valley today, software developers’ hiring prospects and even salaries are largely determined by their individual ratings on GitHub. And because of the power and influence of that rating system, developers are constantly adding code to GitHub projects in order to boost their personal ratings. This secondary benefit further adds value to the community and the company. In short, GitHub is not only a great example of an Exponential Organization, but its product is also a powerful template for the ExO organizational model: collaborative, open, transparent, community-driven and peopled by staff well equipped and willing to self-select projects. It also offers 10x improvements across the board for different functions, jobs and departments. Bottom line: GitHub is an emergent organization driven by passion and purpose.
+
+Ismail, Salim; Malone, Michael S.; van Geest, Yuri. Exponential Organizations: Why new organizations are ten times better, faster, and cheaper than yours (and what to do about it) (pp. 166-167). Diversion Books. Kindle Edition. 
+
+### Large companies 
 
 ## Sources:
 Ismail, Salim; Malone, Michael S.; van Geest, Yuri. Exponential Organizations: Why new organizations are ten times better, faster, and cheaper than yours (and what to do about it) (p. 13). Diversion Books. Kindle Edition. 
