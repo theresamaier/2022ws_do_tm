@@ -81,38 +81,97 @@ In order to understand what it takes for businesses to adapt to the new age, we 
 # New breed of institutional organism: *the exponential organization(ExO)*
 
 ## Definition:
-An Exponential Organization (ExO) is one *"whose <span style="color:red">impact (or output) is disproportionally large—at least 10x larger—compared to its peers</span> because of the use of new organizational techniques that leverage accelerating technologies"* (Ismail, 2014). :rocket:
+An Exponential Organization (ExO :rocket:) is one *"whose <span style="color:red">impact (or output) is disproportionally large—at least 10x larger—compared to its peers</span> because of the use of new organizational techniques that leverage accelerating technologies"* (Ismail, 2014). 
 
-Rather than using armies of people or large physical plants, Exponential Organizations are built upon information technologies that take what was once physical in nature and dematerialize it into the digita 
+ :arrow_right: There are two major assumptions on which this new way of running businesses is built: 
+ 1. **"Rent, Don’t own Access resources you don’t own"**: *ExOs rather use external resources than owning their own assets or workforce.*
+ 2. **"Information accelerates everything and is therefore your greatest asset"**. *(information-based environment delivers fundamentally disruptive opportunities)* 
 
-**new information-based paradigm**
+ To summarize it: ExOs are built upon <span style="color:red">information technologies</span> that take what was once physical in nature and dematerialize it into the digital, on-demand world.In doing so, they're able to scale their business strategies, culture, organizational frameworks and purpose at the same rate as the technology, i.e. one that follows an exponential curve.
+ 
 
- :arrow_right: Two main assumptions: 
- 1. Access resources you don’t own --> leverage external resources , rather than owning assets or workforces
- 2. Information is your greatest asset. *(information-based environment delivers fundamentally disruptive opportunities)* 
+Salim Ismail and his co-researchers have studied around 100 companies which has exponentially grown in the last five years and identified the common traits across all the exponential organizations.
 
- |The core notion is simple: Rather than increasing human capital or physical assets, the most successful 21st-century companies leverage information and technology to achieve rapid expansion in pursuit of a "Massive Transformational Purpose" (MTP). In doing so, they're able to scale their business strategies, culture, organizational frameworks and purpose at the same rate as the technology, i.e. one that follows an exponential curve.|
- |--|
+The most successful 21st-century companies leverage information and technology to achieve rapid expansion in pursuit of a <span style="color:red">**Massive Transformative Purpose**</span> (MTP).
+Never heard of it? MTP creates a cultural movement by providing the answers to the questions of why you do what you do, why you get up in the morning, and why your organization exists. Consequently, MTP goes beyond the mission statement by reflecting an organization's aspiration to change the world for a better future - that is, not just for economic gain. This is also in line with the growing interest in CSR activities.
 
-**Further characteristics:** :rocket:
---> Salim Ismail and his co-researchers have studied around 100 companies which has exponentially grown in the last five years and identified the common traits across all the exponential organizations as shown below:
-- ExOs are built upon <span style="color:red">information technologies</span> that take what was once physical in nature and dematerialize it into the digital, on-demand world.
+### **Further characteristics of an exponential ecosystem:** :rocket:
 
-- <span style="color:red">**Massive Transformative Purpose**</span> is the answer to why you do what you do, why you get up in the morning, and why your organization exists and goes beyond just the mission statement by reflecting an organization’s aspiration (generates a cultural movement) -> ExOs are focused on transforming the world for a better future *(not only on economic profit; in line with the growing interest in CSR activities)*
+The formula for Ecos is based on the MTP and the associated external and internal characteristics. To better memorize them, you can use the acronyms *SCALE* and *IDEAS* and/or stick to the metaphor of the two hemispheres of the brain!
 
 ![brain_hemispheres_ExO_attributes_metaphor](brain_hemispheres_ExO_attributes_metaphor.png) 
 
 *Note:  Not every ExO has all ten attributes but the more it has, the more scalable it tends to be.*
 
-| internal attributes <span style="color:red">**IDEAS**</span> | external attributes <span style="color:red">**SCALE**</span>|
-|------|-----| 
-<span style="color:red">**I**</span>nterfaces | <span style="color:red">**S**</span>taff on Demand 
-<span style="color:red">**D**</span>ashboards | <span style="color:red">**C**</span>ommunity & Crowd
-<span style="color:red">**E**</span>xperimentation | <span style="color:red">**A**</span>lgorithms
-<span style="color:red">**A**</span>utonomy | <span style="color:red">**L**</span>everaged Assets
-<span style="color:red">**S**</span>ocial Technologies | <span style="color:red">**E**</span>ngagement
+**Let's have a closer look on these attributes:**
 
-### Let's have a closer look on these attributes: 
+Start with the external attributes, which can be referred to as <span style="color:red">**SCALE**</span>:
+
+<span style="color:red">**S**</span>taff on Demand     
+* Leveraging personnel outside the base organization necessary for speed, functionality, flexibility because chances are high that independent of how talented they are, most of them will become obsolete and uncompetitive (challenge and high management effort to keep employees skills up to date - alternative: companies fill their expertise gap with external and temporary workforces)
+
+    * <span style="color:red">**C**</span>ommunity & Crowd
+        * leveraging community and crowd for many functions traditionally handled inside the enterprise, including idea generation, funding, design, distribution, marketing and sales. 
+        * **Community:** 
+            *"If you build communities and you do things in public, you don’t have to find the right people, they find you."* (Chris Anderson)
+            * Internet is producing trait-based communities; in early stages, many companies find it easier to join an existing community that shares its MTP.
+            * Three steps to building a community around an ExO:
+                * Attract and engage early members by the use of one's MTP
+                * Nurture the community by listening and giving back
+                * create a platform wo automated peer-to-peer engagement (e.g., GitHub)
+        * **Crowd:**  is made up of concentric rings of people outside the core community. 
+            * is harder to reach, but its numbers are much greater
+            * is pull-based (You open up an idea, funding opportunity or incentive prize…and let people find you)
+            * ExOs can leverage the crowd by harnessing:
+                * Creativity, innovation --> idea generation 
+                * Validation
+                * Crowdfunding
+
+ 
+
+ 
+
+    * <span style="color:red">**A**</span>lgorithms
+        * two major types of algorithms: 
+            * **Machine Learning:** is the ability to accurately perform new, unseen tasks, built on known properties learned from training or historic data, and based on prediction. 
+            * **Deep Learning**: is a new and exciting subset of Machine Learning based on neural net technology. It allows a machine to discover new patterns without being exposed to any historical or training data.
+
+        * Companies that are data-driven help to prevent fall prey to self-delusions that often happen when you solely rely on intuitive guesses of the company's leaders. 
+        * | **Brief Excursus (cognitive biases):**|| 
+            |------|-----| 
+            Anchoring Bias:| 
+            Availability heuristic: | 
+            Confirmation bias: | 
+            Framing bias:  | 
+            Optimism bias:  | 
+            Cognitive dissonance | 
+            Framing effect | 
+            Prospect theory | 
+            ... | 
+
+        * 4 Steps for ExOs to implement algorithms: 
+            * Gather data via humans or sensors 
+            * Organize the data (extract, transform and load)
+            * Apply by using machine learning tools to identify trends and tune new algorithms 
+            * Expose --> Open data and APIs can be used to enable an ExO’s community to develop valuable services, new functionalities and innovation layered on top of the platform by remixing the ExO’s data with their own. 
+        
+
+    * <span style="color:red">**L**</span>everaged Assets
+        * Outsource even mission-critical assets to retain flexibility
+        * Scale and Share asstes not only locally but also globally through technology
+        * The ability to lease on-demand computing that would scale on a variable cost basis utterly changed the IT industry.
+        * collaborative consumption
+       *  <span style="color:red">NOTE: When the asset in question is rare or extremely scarce, then ownership is a better option. But if your asset is information-based or commoditized at all, then accessing is better than possessing.</span>
+ 
+    * <span style="color:red">**E**</span>ngagement
+        * Key attributes: 
+            * Ranking transparency 
+            * Self-efficacy (sense of control, agency and impact) 
+            * Peer pressure (social comparison) 
+            * Eliciting positive rather than negative emotions to drive long-term behavioral change 
+            * Instant feedback (short feedback cycles) 
+            * Clear, authentic rules, goals and rewards (only reward outputs, not inputs) 
+            * Virtual currencies or points
 
 - <span style="color:red">**IDEAS**</span> (internal attributes) 
     * <span style="color:red">**I**</span>nterfaces
@@ -178,73 +237,6 @@ Andre Grove developed the new OKR framework in the 1970s. In 1999, John Doerr in
 Nowadays thousands of companies successfully implemented OKRs: Scout 24, ProSieben, amazon, zalando, Red Bull, Edeka, Burda, N26, Siemens. 
 **Example of an OKR from SpaceX:** Strategic level: O: "We have due built first sustainable city on Mars"; KR for Mars mission goal: "We raised 2.5 billion euros for our first unit of wle space travel." . - Project level: I: We launched a crowdfunding campaign on Kickstarter. 
 
-
-- <span style="color:red">**SCALE**</span> (external attributes)
-    * <span style="color:red">**S**</span>taff on Demand 
-        * Leveraging personnel outside the base organization necessary for speed, functionality, flexibility because chances are high that independent of how talented they are, most of them will become obsolete and uncompetitive (challenge and high management effort to keep employees skills up to date - alternative: companies fill their expertise gap with external and temporary workforces)
-
-    * <span style="color:red">**C**</span>ommunity & Crowd
-        * leveraging community and crowd for many functions traditionally handled inside the enterprise, including idea generation, funding, design, distribution, marketing and sales. 
-        * **Community:** 
-            *"If you build communities and you do things in public, you don’t have to find the right people, they find you."* (Chris Anderson)
-            * Internet is producing trait-based communities; in early stages, many companies find it easier to join an existing community that shares its MTP.
-            * Three steps to building a community around an ExO:
-                * Attract and engage early members by the use of one's MTP
-                * Nurture the community by listening and giving back
-                * create a platform wo automated peer-to-peer engagement (e.g., GitHub)
-        * **Crowd:**  is made up of concentric rings of people outside the core community. 
-            * is harder to reach, but its numbers are much greater
-            * is pull-based (You open up an idea, funding opportunity or incentive prize…and let people find you)
-            * ExOs can leverage the crowd by harnessing:
-                * Creativity, innovation --> idea generation 
-                * Validation
-                * Crowdfunding
-
- 
-
- 
-
-    * <span style="color:red">**A**</span>lgorithms
-        * two major types of algorithms: 
-            * **Machine Learning:** is the ability to accurately perform new, unseen tasks, built on known properties learned from training or historic data, and based on prediction. 
-            * **Deep Learning**: is a new and exciting subset of Machine Learning based on neural net technology. It allows a machine to discover new patterns without being exposed to any historical or training data.
-
-        * Companies that are data-driven help to prevent fall prey to self-delusions that often happen when you solely rely on intuitive guesses of the company's leaders. 
-        * | **Brief Excursus (cognitive biases):**|| 
-            |------|-----| 
-            Anchoring Bias:| 
-            Availability heuristic: | 
-            Confirmation bias: | 
-            Framing bias:  | 
-            Optimism bias:  | 
-            Cognitive dissonance | 
-            Framing effect | 
-            Prospect theory | 
-            ... | 
-
-        * 4 Steps for ExOs to implement algorithms: 
-            * Gather data via humans or sensors 
-            * Organize the data (extract, transform and load)
-            * Apply by using machine learning tools to identify trends and tune new algorithms 
-            * Expose --> Open data and APIs can be used to enable an ExO’s community to develop valuable services, new functionalities and innovation layered on top of the platform by remixing the ExO’s data with their own. 
-        
-
-    * <span style="color:red">**L**</span>everaged Assets
-        * Outsource even mission-critical assets to retain flexibility
-        * Scale and Share asstes not only locally but also globally through technology
-        * The ability to lease on-demand computing that would scale on a variable cost basis utterly changed the IT industry.
-        * collaborative consumption
-       *  <span style="color:red">NOTE: When the asset in question is rare or extremely scarce, then ownership is a better option. But if your asset is information-based or commoditized at all, then accessing is better than possessing.</span>
- 
-    * <span style="color:red">**E**</span>ngagement
-        * Key attributes: 
-            * Ranking transparency 
-            * Self-efficacy (sense of control, agency and impact) 
-            * Peer pressure (social comparison) 
-            * Eliciting positive rather than negative emotions to drive long-term behavioral change 
-            * Instant feedback (short feedback cycles) 
-            * Clear, authentic rules, goals and rewards (only reward outputs, not inputs) 
-            * Virtual currencies or points
 
 
 
