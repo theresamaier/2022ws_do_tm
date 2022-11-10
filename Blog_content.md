@@ -89,6 +89,7 @@ An Exponential Organization (ExO :rocket:) is one *"whose <span style="color:red
 
  To summarize it: ExOs are built upon <span style="color:red">information technologies</span> that take what was once physical in nature and dematerialize it into the digital, on-demand world.In doing so, they're able to scale their business strategies, culture, organizational frameworks and purpose at the same rate as the technology, i.e. one that follows an exponential curve.
  
+## Characteristics:
 
 Salim Ismail and his co-researchers have studied around 100 companies which has exponentially grown in the last five years and identified the common traits across all the exponential organizations.
 
@@ -97,130 +98,78 @@ Never heard of it? MTP creates a cultural movement by providing the answers to t
 
 ### **Further characteristics of an exponential ecosystem:** :rocket:
 
-The formula for Ecos is based on the MTP and the associated external and internal characteristics. To better memorize them, you can use the acronyms *SCALE* and *IDEAS* and/or stick to the metaphor of the two hemispheres of the brain!
+The formula for ExOs is based on the MTP and the associated external and internal characteristics. To better memorize them, you can use the acronyms *SCALE* and *IDEAS* and/or stick to the metaphor of the two hemispheres of the brain!
 
 ![brain_hemispheres_ExO_attributes_metaphor](brain_hemispheres_ExO_attributes_metaphor.png) 
 
 *Note:  Not every ExO has all ten attributes but the more it has, the more scalable it tends to be.*
 
-**Let's have a closer look on these attributes:**
+### **Let's have a closer look on these attributes:**
 
-Start with the external attributes, which can be referred to as <span style="color:red">**SCALE**</span>:
+Let's tart with the external attributes, which can be referred to as <span style="color:red">**SCALE**</span>:
 
-<span style="color:red">**S**</span>taff on Demand     
-* Leveraging personnel outside the base organization necessary for speed, functionality, flexibility because chances are high that independent of how talented they are, most of them will become obsolete and uncompetitive (challenge and high management effort to keep employees skills up to date - alternative: companies fill their expertise gap with external and temporary workforces)
+###  <span style="color:red">**S**</span>taff on Demand     
+In order to ensure speed, functionality and flexibility, the use of personnel outside the core organization is necessary as there is a high probability that most of them, regardless of how talented they are, will become obsolete and uncompetitive. Keeping the skills of employees up to date would be an incredible challenge is connected with high management cost and reduces flexibility, which is why ExOs fill knowledge gaps in the company with external and temporary workers. 
 
-    * <span style="color:red">**C**</span>ommunity & Crowd
-        * leveraging community and crowd for many functions traditionally handled inside the enterprise, including idea generation, funding, design, distribution, marketing and sales. 
-        * **Community:** 
-            *"If you build communities and you do things in public, you don’t have to find the right people, they find you."* (Chris Anderson)
-            * Internet is producing trait-based communities; in early stages, many companies find it easier to join an existing community that shares its MTP.
-            * Three steps to building a community around an ExO:
-                * Attract and engage early members by the use of one's MTP
-                * Nurture the community by listening and giving back
-                * create a platform wo automated peer-to-peer engagement (e.g., GitHub)
-        * **Crowd:**  is made up of concentric rings of people outside the core community. 
-            * is harder to reach, but its numbers are much greater
-            * is pull-based (You open up an idea, funding opportunity or incentive prize…and let people find you)
-            * ExOs can leverage the crowd by harnessing:
-                * Creativity, innovation --> idea generation 
-                * Validation
-                * Crowdfunding
+### <span style="color:red">**C**</span>ommunity & Crowd
+ExOs harness the wisdom of the crowd by involving and collaborating with the community and crowd to advance many functions traditionally performed within the enterprise, including ideation, funding, design, distribution, marketing and sales.
 
+* **Community:** 
+    * *"If you build communities and you do things in public, you don’t have to find the right people, they find you."* (Chris Anderson)
+    * Most importantly, this has been facilitated by the Internet as it is very easy to create trait-based communities. Especially in the early stages, many companies find it easier to join an existing community that shares their MTP and thus enter a community and/or build their own community. The latter can be achieved through the following three steps: 
+        1. Attract and engage early members by the use of one's MTP
+        2. Nurture the community by listening and giving back
+        3. create a platform wo automated peer-to-peer engagement (e.g., GitHub)
+* A **Crowd**  is pull-based, which means that ExOs publish an idea, a funding opportunity, or a prize as an incentive.... and let people engage. A crowd consists of a larger number of people outside the core community and is comparatively harder to reach. Besides creativity, innovation as well as validation, crowdfunding is probably the most common example in which you may have even participated once yourself. 
+
+ ### <span style="color:red">**A**</span>lgorithms
+There are two major types of algorithms: 
+1. **Machine Learning:** is the ability to accurately perform new, unseen tasks, built on known properties learned from training or historic data, and based on prediction. 
+2. **Deep Learning**: is a new and exciting subset of Machine Learning based on neural net technology. It allows a machine to discover new patterns without being exposed to any historical or training data.
+
+Companies that are data-driven help to prevent fall prey to self-delusions that often happen when you solely rely on intuitive guesses of the company's leaders. There are whole lists of classifications of bounded rationality of humans. You may have caught yourself even -  though it is very difficult, as this is often done unconsciously - using shortcuts and biases instead of rationally. To name a few:  The Availability heuristic describes the tendency to overestimate the likelihood of events with greater "availability" in memory, which can be influenced by how recent the memories are or how unusual or emotionally charged they may be. Or the self-serving bias, the tendency people have to seek out information and use it in ways that advance their self-interest.                                                                                             
+*You are interested in learning more about human bounded rationality and biases? Then klick [here](https://thedecisionlab.com/biases)!* 
+
+|4 Steps for ExOs to implement algorithms: |
+|--| 
+|1. Gather data via humans or sensors 
+|2. Organize the data (extract, transform and load)
+|3. Apply by using machine learning tools to identify trends and tune new algorithms 
+|4. Expose --> Open data and APIs can be used to enable an ExO’s community to develop valuable services, new functionalities and innovation layered on top of the platform by remixing the ExO’s data with their own.|
  
 
+### <span style="color:red">**L**</span>everaged Assets
+This generally refers to outsourcing - even of mission-critical assets - to maintain flexibility. Technology has enabled us to scale and share resources not only locally, but also globally.  Notably, for example, the ability to rent on-demand computing, which scales on a variable cost basis, has fundamentally changed the IT industry.
+*  <span style="color:red">NOTE: When the asset in question is rare or extremely scarce, then ownership is a better option. But if your asset is information-based or commoditized at all, then accessing is better than possessing.</span>
  
+### <span style="color:red">**E**</span>ngagement
+This includes the use of all techniques that serve to maintain interest and involvement of these groups and increase commitment to your common goal. Examples include reputation systems, gamification, loyalty programs, and incentive rewards
+* Key attributes: 
+    * Ranking transparency 
+    * Self-efficacy (sense of control, agency and impact) 
+    * Peer pressure (social comparison) 
+    * Eliciting positive rather than negative emotions to drive long-term behavioral change 
+    * Instant feedback (short feedback cycles) 
+    * Clear, authentic rules, goals and rewards (only reward outputs, not inputs) 
+    * Virtual currencies or points
 
-    * <span style="color:red">**A**</span>lgorithms
-        * two major types of algorithms: 
-            * **Machine Learning:** is the ability to accurately perform new, unseen tasks, built on known properties learned from training or historic data, and based on prediction. 
-            * **Deep Learning**: is a new and exciting subset of Machine Learning based on neural net technology. It allows a machine to discover new patterns without being exposed to any historical or training data.
+### Let's tart with the internal attributes, which can be referred to as <span style="color:red">**IDEAS**</span> 
 
-        * Companies that are data-driven help to prevent fall prey to self-delusions that often happen when you solely rely on intuitive guesses of the company's leaders. 
-        * | **Brief Excursus (cognitive biases):**|| 
-            |------|-----| 
-            Anchoring Bias:| 
-            Availability heuristic: | 
-            Confirmation bias: | 
-            Framing bias:  | 
-            Optimism bias:  | 
-            Cognitive dissonance | 
-            Framing effect | 
-            Prospect theory | 
-            ... | 
+### <span style="color:red">**I**</span>nterfaces
 
-        * 4 Steps for ExOs to implement algorithms: 
-            * Gather data via humans or sensors 
-            * Organize the data (extract, transform and load)
-            * Apply by using machine learning tools to identify trends and tune new algorithms 
-            * Expose --> Open data and APIs can be used to enable an ExO’s community to develop valuable services, new functionalities and innovation layered on top of the platform by remixing the ExO’s data with their own. 
-        
+Interfaces are one of the most important enablers for ExOs and thus represent the most distinctive internal features of a fully realized ExO. They are responsible for filtering and matching processes by which ExOs bridge from SCALE externalities to internal IDEAS control frameworks. They are algorithms and automated workflows that route the output of SCALE externalities to the right people at the right time internally and thereby result in more effective and efficient processes, reducing the margin of error. Without such interfaces, the ExO cannot scale, making them increasingly business-critical. As a business grows exponentially, interfaces are critical if an organization is to scale seamlessly, especially on a global scale. 
+Most interfaces receive a great deal of attention and a high level of human-centered design thinking is invested in making interface processes ever more optimized and powerful, or in adding more tools or metadata to them. Most interface processes thus represent a unique type of intellectual property that can have significant market value and are therefore also the property of the organization that developed them.
 
-    * <span style="color:red">**L**</span>everaged Assets
-        * Outsource even mission-critical assets to retain flexibility
-        * Scale and Share asstes not only locally but also globally through technology
-        * The ability to lease on-demand computing that would scale on a variable cost basis utterly changed the IT industry.
-        * collaborative consumption
-       *  <span style="color:red">NOTE: When the asset in question is rare or extremely scarce, then ownership is a better option. But if your asset is information-based or commoditized at all, then accessing is better than possessing.</span>
- 
-    * <span style="color:red">**E**</span>ngagement
-        * Key attributes: 
-            * Ranking transparency 
-            * Self-efficacy (sense of control, agency and impact) 
-            * Peer pressure (social comparison) 
-            * Eliciting positive rather than negative emotions to drive long-term behavioral change 
-            * Instant feedback (short feedback cycles) 
-            * Clear, authentic rules, goals and rewards (only reward outputs, not inputs) 
-            * Virtual currencies or points
-
-- <span style="color:red">**IDEAS**</span> (internal attributes) 
-    * <span style="color:red">**I**</span>nterfaces
-        * algorithms and automated workflows that route the output of SCALE externalities to the right people at the right time internally.
-        * filtering and matching processes by which ExOs bridge from SCALE externalities to internal IDEAS control frameworks
-        * results in more effective and efficient processes, reducing the margin of error.
-        * Interfaces tend to become the most distinctive internal characteristics of a fully realized ExO (Most of these Interface processes are unique and proprietary to the organization that developed them).
-        * they are the core levers by which any ExO can manage to scale 
-
-    | Uber | 
-    |--|
-        Uber 
-       1. Interface: Driver selection 
-       2. Description: System to allow users to find and choose drivers 
-       3. Internal Usage: Algorithm matches best/closest driver to user location 
-       4. SCALE Attribute: Algorithm
-    |--|
+| Firm | Uber | Github |
+|--|--|--|
+Interface| Driver selection |Version Control system
+Description| System to allow users to find and choose drivers | Multiple coders updating software sequentially and in parallel
+Internal Usage| Algorithm matches best/closest driver to user location | Platform keeps all contributions in sync
+SCALE Attribute| Algorithm |Community & Crowd 
 
 
-    * <span style="color:red">**D**</span>ashboards 
-        * in order to measure and manage --> a real-time, adaptable dashboard 
-        * Traditional vanity metrics (stats such as the number of visitors or mobile app downloads) are being replaced by real value metrics including repeat usage, retention percentage, monetization and Net Promoter Score (NPS).
-        * OKR Method (Invented at Intel by CEO Andy Grove and brought to Google by venture capitalist John Doerr in 1999)
-            * tracks individual, team and company goals and outcomes in an open and transparent way.
-            * Never heard ot the OKR method - in the text box below are some facts! 
-    * <span style="color:red">**E**</span>xperimentation
-        * testing assumptions and constantly experimenting with controlled risks (lean startup methodology) 
-        * the practice of kaizen: constant improvement as a fundamental process management technique.
-        * Prototyping: Lean Startup movement, which was created by Eric Ries and Steve Blank and is based on Ries’s book of the same name.
-            * Lean Approach: Learn, Build, Measure (Ideas, Code, Data) 
-
-
-    * <span style="color:red">**A**</span>utonomy
-        * self-organizing, multi-disciplinary teams operating with decentralized authority.
-        * They are also encouraged to start new projects, so long as they fit the company’s MTP. Autonomy is a prerequisite for permissionless innovation.
-
-    * <span style="color:red">**S**</span>ocial Technologies
-        * create horizontal interactions in vertically organized companies.
-        * Social Technologies are comprised of seven key elements: Social objects, Activity streams, Task management, File sharing, Telepresence, Virtual worlds and Emotional sensing. When implemented, these elements create transparency and connectedness and, most importantly, lower an organization’s information latency.
-        * Priestley’s equation for social business is: CONNECTION + ENGAGEMENT + TRUST + TRANSPARENCY.
-        * three key objectives (according to J.P. Rangaswami): 
-            * Reduce the distance between obtaining (and processing) information and decision-making
-            * Migrate from having to look up information to having it flow through your perception. 
-            * Leverage community to build out ideas.
-
-
-
-
-
+### <span style="color:red">**D**</span>ashboards 
+A real-time, adaptable dashboard is important for ExOs to better measure and manage. True value metrics such as repeat usage, retention percentage, monetization, and Net Promoter Score (NPS) are important today. A data-based goal management method is Objective and Key Results. Never heard of the OKR method - here come some facts!
 
 |OKR method: |
 |--|
@@ -236,6 +185,29 @@ After the Kick-off, **check-ins** are conducted on a bi-weekly basis. Towards th
 Andre Grove developed the new OKR framework in the 1970s. In 1999, John Doerr introduces OKRS to the founders at Google. He is also the author of the later famous bestseller. What really Matters. Since 2000 Google has been using OKRs and growing exponentially. 
 Nowadays thousands of companies successfully implemented OKRs: Scout 24, ProSieben, amazon, zalando, Red Bull, Edeka, Burda, N26, Siemens. 
 **Example of an OKR from SpaceX:** Strategic level: O: "We have due built first sustainable city on Mars"; KR for Mars mission goal: "We raised 2.5 billion euros for our first unit of wle space travel." . - Project level: I: We launched a crowdfunding campaign on Kickstarter. 
+
+### <span style="color:red">**E**</span>xperimentation
+This refers to the testing of assumptions and constant experimentation with controlled risks. You may already be familiar with this from the start-up environment, such as the [lean startup methodology](https://www.universitylabpartners.org/blog/what-is-lean-startup-methodology). It involves a continuous loop of building (ideas), measuring (code), learning (data) and thus a continuous improvement process, as proposed by Kaizen. Also the prototyping (Eric Ries) in which a Mininmum-Viable Product is built on which then the iteration loops start is to be emphasized in this context. 
+
+### <span style="color:red">**A**</span>utonomy
+        * self-organizing, multi-disciplinary teams operating with decentralized authority.
+        * They are also encouraged to start new projects, so long as they fit the company’s MTP. Autonomy is a prerequisite for permissionless innovation.
+
+ ### <span style="color:red">**S**</span>ocial Technologies
+        * create horizontal interactions in vertically organized companies.
+        * Social Technologies are comprised of seven key elements: Social objects, Activity streams, Task management, File sharing, Telepresence, Virtual worlds and Emotional sensing. When implemented, these elements create transparency and connectedness and, most importantly, lower an organization’s information latency.
+        * Priestley’s equation for social business is: CONNECTION + ENGAGEMENT + TRUST + TRANSPARENCY.
+        * three key objectives (according to J.P. Rangaswami): 
+            * Reduce the distance between obtaining (and processing) information and decision-making
+            * Migrate from having to look up information to having it flow through your perception. 
+            * Leverage community to build out ideas.
+
+
+
+
+
+
+
 
 
 
