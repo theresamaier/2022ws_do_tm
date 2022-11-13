@@ -1,4 +1,4 @@
-This is my coursework
+Welcome to my presentation about Exponential Organizations
 
 
 
