@@ -1,8 +1,8 @@
 Welcome to my presentation about Exponential Organizations
-===
 
-# Digital Organization 
-## Therea Maier
+## Digital Organization 15.11.2022
+
+## Theresa Maier
 
 ---
 Agenda 
