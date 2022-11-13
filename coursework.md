@@ -1,8 +1,11 @@
 ## Welcome to my presentation about Exponential Organizations
 
-subject: Digital Organization 
+subject: Digital Organization
+
 date: 15.11.2022
+
 author: Theresa Maier
+
 
 ---
 Agenda 
