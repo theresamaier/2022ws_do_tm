@@ -183,7 +183,8 @@ In fact, the OKR method works in cycles - mostly in a quarterly rhythm. A cycle 
 In the **Alignment Workshop**, the drafted OKRs and their responsibilities are exchanged and dependencies and potential for collaboration are identified. Refinement of OKRs can be done as needed in this phase. 
 **Drafting initiatives**: Defining concrete actions to achieve the KRs and Objectives for the upcoming cycle. 
 After the Kick-off, **check-ins** are conducted on a bi-weekly basis. Towards the end, the **retroperspective** and **review** takes place. By reflecting and comparing the actual goal realization, the entire work process can be improved for the next OKR cycle and open to.dos can be taken into the drafting of the upcoming cycle. 
-Andre Grove developed the new OKR framework in the 1970s. In 1999, John Doerr introduces OKRS to the founders at Google. He is also the author of the later famous bestseller. What really Matters. Since 2000 Google has been using OKRs and growing exponentially. 
+Andrew Grove developed the new OKR framework in the 1970s (Book recommendation: [*“High Output Management”*](https://www.thalia.de/shop/home/artikeldetails/A1003138903)). 
+OKRs at Google: In 1999, John Doerr introduces OKRS to the founders at Google. He is also the author of the later famous bestseller: [*"Measure What Matters"*](https://www.whatmatters.com). Since 2000 Google has been using OKRs and growing exponentially. OKRs at Google are part of the culture, DNA and of the language that you use at Google --> sehr verankert. For a deepdive have a look on this video: [How Google sets goals OKRs](https://www.youtube.com/watch?v=mJB83EZtAjc).
 Nowadays thousands of companies successfully implemented OKRs: Scout 24, ProSieben, amazon, zalando, Red Bull, Edeka, Burda, N26, Siemens. 
 **Example of an OKR from SpaceX:** Strategic level: O: "We have due built first sustainable city on Mars"; KR for Mars mission goal: "We raised 2.5 billion euros for our first unit of wle space travel." . - Project level: I: We launched a crowdfunding campaign on Kickstarter. 
 
@@ -191,23 +192,20 @@ Nowadays thousands of companies successfully implemented OKRs: Scout 24, ProSieb
 This refers to the testing of assumptions and constant experimentation with controlled risks. This allows processes to be adapted to the rapidly changing external factors and huge anjd quick learnings. You may already be familiar with this from the start-up environment, such as the [lean startup methodology](https://www.universitylabpartners.org/blog/what-is-lean-startup-methodology). It involves a continuous loop of  (ideas) building, (code) measuring, (data) learning and thus a continuous improvement process, as proposed by Kaizen. Also the prototyping (Eric Ries) in which a Mininmum-Viable Product is built on which then the iteration loops start is to be emphasized in this context. In general, this enables faster time to a product launch. Thus, experimentation can help maximize value creation in different ways. 
 
 ### <span style="color:red">**A**</span>utonomy
-Autonomy was describes by Ismail as self-organizing, multi-disciplinary teams operating with decentralized authority.in ExOs employees should be encouraged to start new projects, so long as they fit the company’s MTP. Thereby, Autonomy is becoming a prerequisite for permissionless innovation.
+Autonomy was describes by Ismail as self-organizing, multi-disciplinary teams operating with decentralized authority.In ExOs employees should be encouraged to start new projects, so long as they fit the company’s MTP. Thereby, Autonomy is becoming a prerequisite for permissionless innovation.
 
  ### <span style="color:red">**S**</span>ocial Technologies
 Social technologies create horizontal interactions in vertically organized companies. They foster the speed of decision cycles, learning, and are able to stabilize the team during rapid growth.  Social technologies are composed of seven key elements: Social objects, activity streams, task management, file sharing, telepresence, virtual worlds, and emotional awareness. When implemented, these elements create transparency and connectedness, and most importantly, reduce an organization's information latency. According to Priestleys equation, a social business requires an interplay of connection, engagement, trust and transparency. J.P. Rangaswami sees shortening the time between acquiring (and processing) information and making decisions, shifting from the need to look up information to the flow of information through your perceptions, and using community to develop ideas as three main goals of social technologies.
 
 
-
-
-
-
-
 ## Exponential Organizations 
 
 
-While reading the characteristics, you must have already thought of several companies. Using the characteristics of ExO, Ismail et al. have developed a diagnostic that can help you assess and analyze your organization. Implementing four or more ExO attributes can lead to a 10-fold increase in performance.
+While reading the characteristics, you must have already thought of several companies. Using the characteristics of ExO, Ismail et al. have developed a [diagnostic](https://exqsurvey.com) that can help you assess and analyze your organization. Implementing four or more ExO attributes can lead to a 10-fold increase in performance.
 
 Let's take a look at the findings of the company's diagnostics regarding ExO: 
+
+first Place: 
 
 ### Some ExOs examples:
 
@@ -263,6 +261,13 @@ In six years, the company has created a community of more than six million devel
 Ismail, Salim; Malone, Michael S.; van Geest, Yuri. Exponential Organizations: Why new organizations are ten times better, faster, and cheaper than yours (and what to do about it) (pp. 166-167). Diversion Books. Kindle Edition. 
 
 ### Large companies 
+
+
+
+
+# Lets have a look on Google: 
+
+On the other hand, Google’s intensive growth strategies help support the company in keeping its position as one of the most valuable brands in the world. For example, continuous improvement of products ensures that the business maintains its share of the online market. Through its generic strategy, the company has become a major player influencing the competitive landscape and development of the online advertising industry, as well as other that depend on the Internet. The combination of Google’s intensive strategies and its generic competitive strategy is effective in satisfying the firm’s needs for continued business growth and leadership in the global industry.
 
 ## Sources:
 Ismail, Salim; Malone, Michael S.; van Geest, Yuri. Exponential Organizations: Why new organizations are ten times better, faster, and cheaper than yours (and what to do about it) (p. 13). Diversion Books. Kindle Edition. 
