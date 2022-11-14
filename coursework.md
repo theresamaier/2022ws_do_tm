@@ -1,63 +1,39 @@
 ---
 marp: true
 theme: gaia
-color: #000
-colorSecondary: #333
-backgroundColor: #fff
-backgroundImage: url('https://marp.app/assets/hero-background.jpg')
+_class: lead
 paginate: true
+backgroundColor: #fff
+backgroundImage: url('https://marp.app/assets/hero-background.svg')
 ---
 
-# Slide 1
-This is slide 1.
-**Bold text**
+# Welcome to my presentation about Exponential Organizations
+
+subject: Digital Organization
+date: 15.11.2022
+author: Theresa Maier
+
+![bg cover](Background_16.9.jpg)
+---
 
 ---
-# Slide 2
+# Agenda
 ## Subtitle
 *Italic text*
 * Item 1
-* Item 2
----
+* Item 
 
----
-marp: true
-theme: gaia
-color: #000
-colorSecondary: #333
-backgroundColor: #fff
-backgroundImage: url('https://marp.app/assets/hero-background.jpg')
-paginate: true
-
----
-
-## Welcome to my presentation about Exponential Organizations
-
-subject: Digital Organization
-
-date: 15.11.2022
-<p style="border:2px solid red">author: Theresa Maier</p>
-<p style="border:2px solid red">author: Theresa Maier</p>
-
-https://github.com/webpro/reveal-md#theme 
----
-Agenda 
-
-1. Introductionont-family(Georgia, serif;
-font-size: 16px;
-letter-spacing: 2px;
-word-spacing: 2px;
-color: #000000;
-font-weight: normal;
-text-decoration: none;
-font-style: normal;
-font-variant: normal;
-text-transform: none)
 2. Definiton
 
 ---
 ## Have you ever heard of the Iridium Moment? 
-![Iridium_Google_ExO](Iridium_Google_ExO.jpeg) 
+![width:25cm height:25cm; saturate:2.0](Iridium_Google_ExO-16.9.jpg)
+
+---
+![bg cover](Iridium_Google_ExO-16.9.jpg)
+
+
+
 ---
 
 ## what 

@@ -21,6 +21,8 @@
  | Paul Krugman *(Nobel Prize winner, well-known economist, advisor to several U.S. presidents)* (1998): | *"The Internet will have no more impact on the economy than the fax machine did"* | 
  |Steve Ballmer *(Ex-CEO Microsoft)* (2007):| *"The iPhone will never gain a significant market share in its lifetime. Not a chance."*|
 
+<span style="color:gray"; Georgia, serif;
+font-size: 16px; letter-spacing: 2px; word-spacing: 2px; color: #000000; font-weight: normal; text-decoration: none; font-style: normal; font-variant: normal;text-transform: none>test</span>
 
 This shows that even the greatest visionaries and thinkers occasionally misjudge some of the rapid developments and the associated social change. 
 
