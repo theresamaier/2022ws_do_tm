@@ -88,7 +88,9 @@ An Exponential Organization (ExO :rocket:) is one *"whose <span style="color:red
  1. **"Rent, Don’t own Access resources you don’t own"**: *ExOs rather use external resources than owning their own assets or workforce.*
  2. **"Information accelerates everything and is therefore your greatest asset"**. *(information-based environment delivers fundamentally disruptive opportunities)* 
 
- To summarize it: ExOs are built upon <span style="color:red">information technologies</span> that take what was once physical in nature and dematerialize it into the digital, on-demand world. In doing so, they're able to scale their business strategies, culture, organizational frameworks and purpose at the same rate as the technology, i.e. one that follows an exponential curve.
+ To summarize it: 
+
+ExOs are built upon <span style="color:red">information technologies</span> that take what was once physical in nature and dematerialize it into the digital, on-demand world. In doing so, they're able to scale their business strategies, culture, organizational frameworks and purpose at the same rate as the technology, i.e. one that follows an exponential curve. For the first time, the Internet has enabled businesses to exponentially reduce the cost of demand generation through online marketing and referral marketing - in fact, if you achieve a viral loop (e.g. WhatsApp), your acquisition costs go completely to zero.
  
 ## Characteristics:
 
@@ -97,13 +99,20 @@ Salim Ismail and his co-researchers have studied around 100 companies which has 
 The most successful 21st-century companies leverage information and technology to achieve rapid expansion in pursuit of a <span style="color:red">**Massive Transformative Purpose**</span> (MTP).
 Never heard of it? MTP creates a cultural movement by providing the answers to the questions of why you do what you do, why you get up in the morning, and why your organization exists. Consequently, MTP goes beyond the mission statement by reflecting an organization's aspiration to change the world for a better future - that is, not just for economic gain. This is also in line with the growing interest in CSR activities.
 
+Examples for MTPs: 
+- Google MTP: Organizing world’s information
+- Airbnb MTP: Everyone belongs everywhere
+- TED MTP: Ideas worth spreading.
+- Tesla MTP: Accelerate the transition to sustainable transportation
+- Uber MTP: Transportation as reliable as running water
+
 ### **Further characteristics of an exponential ecosystem:** :rocket:
 
 The formula for ExOs is based on the MTP and the associated external and internal characteristics. To better memorize them, you can use the acronyms *SCALE* and *IDEAS* and/or stick to the metaphor of the two hemispheres of the brain!
 
 ![brain_hemispheres_ExO_attributes_metaphor](brain_hemispheres_ExO_attributes_metaphor.png) 
 
-*Note:  Not every ExO has all ten attributes but the more it has, the more scalable it tends to be.*
+*Note:  Not every ExO has all ten attributes but the more it has, the more scalable it tends to be. Their research indicates that a minimum of four implemented attributes will achieve the ExO label. *
 
 ### **Let's have a closer look on these attributes:**
 
@@ -185,11 +194,14 @@ In the **Alignment Workshop**, the drafted OKRs and their responsibilities are e
 After the Kick-off, **check-ins** are conducted on a bi-weekly basis. Towards the end, the **retroperspective** and **review** takes place. By reflecting and comparing the actual goal realization, the entire work process can be improved for the next OKR cycle and open to.dos can be taken into the drafting of the upcoming cycle. 
 Andrew Grove developed the new OKR framework in the 1970s (Book recommendation: [*“High Output Management”*](https://www.thalia.de/shop/home/artikeldetails/A1003138903)). 
 OKRs at Google: In 1999, John Doerr introduces OKRS to the founders at Google. He is also the author of the later famous bestseller: [*"Measure What Matters"*](https://www.whatmatters.com). Since 2000 Google has been using OKRs and growing exponentially. OKRs at Google are part of the culture, DNA and of the language that you use at Google --> sehr verankert. For a deepdive have a look on this video: [How Google sets goals OKRs](https://www.youtube.com/watch?v=mJB83EZtAjc).
+The success of the OKR method has also encouraged investment in tools to simplify and manage OKRs. For example, Google itself uses several OKR tools such as Google Sites, Wikis, and Google Spreadsheets. While the formulation and measurement of goals takes place in Google Docs and Sheets for many teams, Google has also developed its own measures, such as the customizable tool to evaluate OKRs.
 Nowadays thousands of companies successfully implemented OKRs: Scout 24, ProSieben, amazon, zalando, Red Bull, Edeka, Burda, N26, Siemens. 
 **Example of an OKR from SpaceX:** Strategic level: O: "We have due built first sustainable city on Mars"; KR for Mars mission goal: "We raised 2.5 billion euros for our first unit of wle space travel." . - Project level: I: We launched a crowdfunding campaign on Kickstarter. 
 
 ### <span style="color:red">**E**</span>xperimentation
 This refers to the testing of assumptions and constant experimentation with controlled risks. This allows processes to be adapted to the rapidly changing external factors and huge anjd quick learnings. You may already be familiar with this from the start-up environment, such as the [lean startup methodology](https://www.universitylabpartners.org/blog/what-is-lean-startup-methodology). It involves a continuous loop of  (ideas) building, (code) measuring, (data) learning and thus a continuous improvement process, as proposed by Kaizen. Also the prototyping (Eric Ries) in which a Mininmum-Viable Product is built on which then the iteration loops start is to be emphasized in this context. In general, this enables faster time to a product launch. Thus, experimentation can help maximize value creation in different ways. 
+
+Wer der Meinung ist, dass solche Initiativen von Unternehmen ine unzureichende Kapitalrendite aufweisen  wird auf dauer hinter diesen bleiben. Denn um dauerhaft am Markt überleben zu können benötigt es eben Forschung zur entwicklung bahnbrechende Technologien. 
 
 ### <span style="color:red">**A**</span>utonomy
 Autonomy was describes by Ismail as self-organizing, multi-disciplinary teams operating with decentralized authority.In ExOs employees should be encouraged to start new projects, so long as they fit the company’s MTP. Thereby, Autonomy is becoming a prerequisite for permissionless innovation.
@@ -201,23 +213,38 @@ Social technologies create horizontal interactions in vertically organized compa
 ## Exponential Organizations 
 
 
-While reading the characteristics, you must have already thought of several companies. Using the characteristics of ExO, Ismail et al. have developed a [diagnostic](https://exqsurvey.com) that can help you assess and analyze your organization. Implementing four or more ExO attributes can lead to a 10-fold increase in performance.
+While reading the characteristics, you must have already thought of several companies. Using the characteristics of ExO, Ismail et al. have developed a [diagnostic](https://exqsurvey.com) that quantifies the core scalability of an organization and thereby help you assess and analyze your organization. Implementing at least four or more ExO attributes can lead to a 10-fold increase in performance.
 
-Let's take a look at the findings of the company's diagnostics regarding ExO: 
+Let's take a look at the findings of the company's diagnostics regarding ExO: (maximum score 84 points)
 
-first Place: 
+first Place: Github (Founded 2008) - ExQ Score 76
+second place Airbnb (founded 2008) ExQ Score 74
+third place uber (funded 2009) ExQ Score 73 
+4. Indiegogo
+
+5. Google -> Google Ventures was identified as the benchmark company with an exponential quotient of 76 out of 84. 
+
+6. Pinterest
+
+7. Kaggle
+
+8. Tumblr
+
+9. Quirky
+
+10. Shapeways.
+
+All hundred ExOs can be seen via [here](https://openexo.com/top100/). 
+
+ **Excursus:** The sobriquet "unicorn" was shaped by a groundbreaking [article by venture capitalist Aileen Lee in 2013](https://techcrunch.com/2013/11/02/welcome-to-the-unicorn-club/?guccounter=1) and has been the target state of every founder ever since. 
+But how do you become a unicorn and why are they so successful?" Salim Ismail, Mike Malone, Yuri van Geest have explored this question and created a compressed [guide on how to build unicorns](https://openexo.com/exponential-organizations-book/). According to their thesis, the ability to scale one's organizational structures in a completely new way is what makes companies unicorns.The same is essential for exponential organizations. Therefore, it may not be surprising that considerable overlap has been found between ExOs and Unicorns. Of the 100 largest ExOs identified by Ismail et al. 35 are considered Unicorns according to Aileen Lee's list or in Fortune's list. Thus, if you want to be a unicorn, scale your organizational structure beyond the core team and find a way to lower your marginal cost of supply.
+
 
 ### Some ExOs examples:
 
 
-Examples for exponential organizations: 
-- Google *(MTP: Organizing world’s information)
-- Airbnb *(MTP: Everyone belongs everywhere)
-* Xiaomi
-* TED: Ideas worth spreading.
-* Tesla: Accelerate the transition to sustainable transportation
-- Uber Transportation as reliable as running water
-- Netflix
+
+
 
 
 ## How i became exponential 
@@ -254,20 +281,52 @@ Unlike startups (where you can build all of the internal operations from scratch
 
 As an example, let's take a look at GutHub here. This shows that a company that did not start exponentially has now become one of the top exponential companies. 
 
-GitHub - An open source coding and collaboration tool and platform-  was founded by Chris Wanstrath, P.J. Hyett and Tom Preston-Wernerin 2008. It is a social network for programmers in which people and their collaborations are central, rather than just the code itself. When a developer submits code to a GitHub project, that code is reviewed and commented upon by other developers, who also rate that developer. GitHub’s coding environment has instant messaging embedded within it, along with a distributed version control system (instead of a central code repository). In practice, what that means is you don’t need a server; you have everything you need locally, and can start coding without first needing to get permission. And you can do so anywhere, even offline. GitHub has successfully transformed the open source community by implementing virtually all of the ExO principles. 
+GitHub - GitHub has a Massive, Transformative Purpose (an MTP) they call “Social Coding”; it leverages its community, implements algorithms aggressively, and utilizes staff/assets on demand to scale past its organizational boundaries. Internally, they use OKR structures, experiment heavily, constantly take risks and are organized in autonomous team structures that heavily use social collaboration tools
+
+An open source coding and collaboration tool and platform-  was founded by Chris Wanstrath, P.J. Hyett and Tom Preston-Wernerin 2008. It is a social network for programmers in which people and their collaborations are central, rather than just the code itself. When a developer submits code to a GitHub project, that code is reviewed and commented upon by other developers, who also rate that developer. GitHub’s coding environment has instant messaging embedded within it, along with a distributed version control system (instead of a central code repository). In practice, what that means is you don’t need a server; you have everything you need locally, and can start coding without first needing to get permission. And you can do so anywhere, even offline. GitHub has successfully transformed the open source community by implementing virtually all of the ExO principles. 
 
 In six years, the company has created a community of more than six million developers working collaboratively on more than fifteen million open source software projects. Even more important is that in Silicon Valley today, software developers’ hiring prospects and even salaries are largely determined by their individual ratings on GitHub. And because of the power and influence of that rating system, developers are constantly adding code to GitHub projects in order to boost their personal ratings. This secondary benefit further adds value to the community and the company. In short, GitHub is not only a great example of an Exponential Organization, but its product is also a powerful template for the ExO organizational model: collaborative, open, transparent, community-driven and peopled by staff well equipped and willing to self-select projects. It also offers 10x improvements across the board for different functions, jobs and departments. Bottom line: GitHub is an emergent organization driven by passion and purpose.
 
 Ismail, Salim; Malone, Michael S.; van Geest, Yuri. Exponential Organizations: Why new organizations are ten times better, faster, and cheaper than yours (and what to do about it) (pp. 166-167). Diversion Books. Kindle Edition. 
 
 ### Large companies 
+what is a large and established organization to do? Answer: Transform. Transformation isn’t easy, however. A big company is like a supertanker: it takes a long time to turn. Nonetheless, it can be done.
 
-
+identified four such strategies for large organizations to deploy in an accelerating business world while still keeping their core operational businesses intact: 
+1.	Transform leadership. 
+a.	Leadership qualitites – six traits charaterisitcs of ExO leaders
+i.	Visionary Customer Advocate
+ii.	Data driven Experimentalist 
+iii.	Optimistic Realist 
+iv.	Extreme Adaptability 
+v.	Radical Openess 
+vi.	Hyper-confident 
+2.	Partner with, invest in or acquire ExOs. 
+3.	Disrupt[X]. 
+a.	leverage disruptive technologies themselves. The key is for senior management to embrace the idea of radical change—towards new markets—and then reward that acceptance throughout the organization. We call this Disrupt[X], a process that involves three important steps: 
+i.	Inspire ExOs at the edge 
+ii.	Hire a Black Ops Team
+iii.	Copy Google[X]
+iv.	Partner with Accelerators, Incubators and Hackerspaces
+4.	Implement ExO Lite internally.
 
 
 # Lets have a look on Google: 
 
 On the other hand, Google’s intensive growth strategies help support the company in keeping its position as one of the most valuable brands in the world. For example, continuous improvement of products ensures that the business maintains its share of the online market. Through its generic strategy, the company has become a major player influencing the competitive landscape and development of the online advertising industry, as well as other that depend on the Internet. The combination of Google’s intensive strategies and its generic competitive strategy is effective in satisfying the firm’s needs for continued business growth and leadership in the global industry.
 
+For the first time ever, Unicorns/ExOs are leveraging this new scalability by pushing vital functions outside their core org structures, thus dropping the cost of supply exponentially. 
+Google’s marginal cost to running an extra search query is almost zero. 
+
+Experimentation: 
+Google[X]-Labors zur Entwicklung neuer Produkte - Dabei konzentrieren sie sich nicht wie viele herkömmliche unternehmenslabore auf bestehende Märkte, sondern wollen völlig neue Märkte für das Unternehmen durch Ideen mit Mondscheinqualität ab (z. B. Lebensverlängerung, autonome Fahrzeuge, Google Glass, intelligente Kontaktlinsen, Project Loon usw.) schaffen. 
+Die Einrichtung und Förderung des Labors zur Experimentieren und die Kernkompetenzen von Google im Bereich Information führen daher zu einer guten positionierung. 
+
+Autonomie: 
+m März 2009 gründete Bill Maris Google Ventures, den unternehmenseigenen Risikokapitalfonds von Google, mit einer Kapitalzusage von 100 Millionen Dollar. Heute, nach fünf Jahren, hat sich das Unternehmen zu einem der aktivsten und erfolgreichsten VCs entwickelt, mit sechzig Mitarbeitern (alle Partner) und 1,5 Milliarden Dollar unter Verwaltung. Das ist ein ExO-Schritt, der eine 15-fache Steigerung innerhalb von fünf Jahren bedeutet. Google Ventures hat bereits mehr als zwanzig erfolgreiche Exits durchgeführt und dabei Renditen erzielt, die weit über dem Marktdurchschnitt für Risikokapitalfonds liegen. 
+Ein wesentliches Unterscheidungsmerkmal von Google Ventures ist der Einsatz von Datenanalysen und Algorithmen zur Beurteilung von Geschäften. Das Unternehmen beschäftigt sieben Datenwissenschaftler, die so viele Daten wie möglich sammeln und analysieren, bevor sie entscheiden, wo sie investieren. Maris sagte: "Wir haben Zugang zu den weltweit größten Datensätzen, die man sich vorstellen kann. Unsere Cloud-Computer-Infrastruktur ist die größte aller Zeiten. --> data driven 
+Der Fonds verwendet OKRs, um den Fortschritt seiner Portfoliounternehmen zu verfolgen, und stützt sich dabei stark auf Echtzeit-Kennzahlen - alles wird quantifiziert
+
+Tatsächlich ist dies einer der größten Vorteile, die Google Ventures bietet: einzigartiger Zugang zu einigen der besten Ingenieure, Wissenschaftler und Technologen der Welt. Ein Community-Portal verbindet das GV-Team mit Google-Mitarbeitern und Kollegen aus anderen Portfolio-Unternehmen. 
 ## Sources:
 Ismail, Salim; Malone, Michael S.; van Geest, Yuri. Exponential Organizations: Why new organizations are ten times better, faster, and cheaper than yours (and what to do about it) (p. 13). Diversion Books. Kindle Edition. 
