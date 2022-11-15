@@ -98,12 +98,12 @@ Salim Ismail and his co-researchers have studied around 100 companies which has 
 The most successful 21st-century companies leverage information and technology to achieve rapid expansion in pursuit of a <span style="color:red">**Massive Transformative Purpose**</span> (MTP).
 Never heard of it? MTP creates a cultural movement by providing the answers to the questions of why you do what you do, why you get up in the morning, and why your organization exists. Consequently, MTP goes beyond the mission statement by reflecting an organization's aspiration to change the world for a better future - that is, not just for economic gain. This is also in line with the growing interest in CSR activities.
 
-Examples for MTPs: 
-- Google MTP: Organizing world’s information
-- Airbnb MTP: Everyone belongs everywhere
-- TED MTP: Ideas worth spreading.
-- Tesla MTP: Accelerate the transition to sustainable transportation
-- Uber MTP: Transportation as reliable as running water
+Examples of MTPs: 
+- Google: *"Organizing world’s information"*
+- Airbnb: *"Everyone belongs everywhere"*
+- TED: *"Ideas worth spreading"*
+- Tesla: *"Accelerate the transition to sustainable transportation"*
+- Uber: *"Transportation as reliable as running water"*
 
 ### **Further characteristics of an exponential ecosystem:** :rocket:
 
@@ -212,7 +212,7 @@ SCALE and IDEAS elements are self-reinforcing and integrative.
 
 Ismail, Salim; Malone, Michael S.; van Geest, Yuri. Exponential Organizations: Why new organizations are ten times better, faster, and cheaper than yours (and what to do about it) (p. 109). Diversion Books. Kindle Edition. 
 
-## Exponential Organizations 
+## Exponential Organizations - Examples:
 
 
 While reading the characteristics, you must have already thought of several companies. Using the characteristics of ExO, Ismail et al. have developed a [diagnostic](https://exqsurvey.com) that quantifies the core scalability of an organization and thereby help you assess and analyze your organization. Implementing at least four or more ExO attributes can lead to a 10-fold increase in performance.
@@ -242,15 +242,8 @@ All hundred ExOs can be seen via [here](https://openexo.com/top100/).
 But how do you become a unicorn and why are they so successful?" Salim Ismail, Mike Malone, Yuri van Geest have explored this question and created a compressed [guide on how to build unicorns](https://openexo.com/exponential-organizations-book/). According to their thesis, the ability to scale one's organizational structures in a completely new way is what makes companies unicorns.The same is essential for exponential organizations. Therefore, it may not be surprising that considerable overlap has been found between ExOs and Unicorns. Of the 100 largest ExOs identified by Ismail et al. 35 are considered Unicorns according to Aileen Lee's list or in Fortune's list. Thus, if you want to be a unicorn, scale your organizational structure beyond the core team and find a way to lower your marginal cost of supply.
 
 
-### Some ExOs examples:
-
-
-
-
-
-
-## How i became exponential 
-Companies can either start as ExO but also existing companies could also take advantage of the ExO philosophy and thus go exponentially.
+## How to become exponential 
+Companies can either be established as ExO, or existing companies can take advantage of the ExO philosophy and thus go exponentially.
 
 ### Guidance for the foundation of an exponential organization 
 
@@ -260,36 +253,64 @@ Companies can either start as ExO but also existing companies could also take ad
 4. Breakthrough Idea - that delivers a minimum 10x improvement over the status quo. Let’s note that we don’t begin with the core idea — that way you’re not tied to a particular solution, but rather the problem space.
 5. Build a Business Model Canvas
 6. Find a Business Model
-    * Kelly identified the following eight ways to build a business model when the underlying information is free (list offers a set of working business models for an information age)
-        * Immediacy
+    * 8 ways to build a business model when the underlying information is free (list offers a set of working business models for an information age)
+        * Immediacy *(time confers privilege)*
         * Personalization 
         * Interpretation
         * Authenticity
         * Accessibility
         * Embodiment 
-        * Patronage 154
+        * Patronage 
         * Findability 
 7. Build the MVP - But they iterated rapidly with initial customer data and were ultimately successful.
 8. Validate Marketing and Sales
+    - **Acquisition:** How do users locate you? (Growth metric)
+    - **Activation:** Do users have a great first experience? (Value metric) Retention: Do users come back? (Value metric) 
+    - **Revenue:** How do you make money? (Value metric) 
+    - **Referral:** Do users tell others? (Growth metric)
 9. Implement SCALE and IDEAS
+    - **MTP:** Formulate an MTP in a particular problem space, one that all founders feel passionate about. 
+    - **Staff on Demand:** Use contractors, SoD platforms wherever possible; keep FTEs to a minimum. 
+    - **Community & Crowd:** Validate idea in MTP communities. Get product feedback. Find co-founders, contractors and experts. Use crowdfunding and crowdsourcing to validate market demand and as a marketing technique. 
+    - **Algorithms:** Identify data streams that can be automated and help with product development. Implement cloud-based and open source machine and deep learning to increase insights.
+    - **Leveraged Assets:** Do NOT acquire assets. Use cloud computing, TechShop for product development. Use incubators like Y Combinator and Techstars for office, funding, mentoring and peer input. Starbucks as office. 
+    - **Engagement:** Design product with engagement in mind. Gather all user interactions. Gamify where possible. Create a digital reputational system of users and suppliers to build trust and community. Use incentive prizes to engage crowd and create buzz. - Interfaces: Design custom processes for managing SCALE; do not automate until you’re ready to scale. 
+    - **Dashboards:** Set up OKR and value, serendipity, and growth metrics dashboards; do not implement value metrics until product finalized (see Step 10). 
+    - Experimentation: Establish culture of experimentation and constant iteration. Be willing to fail and pivot as needed. 
+    - Autonomy: Implement lite version of Holacracy. Start with the General Company Circle as a first step; then move onto governance meetings. Implement the GitHub technical and organizational model with radical openness, transparency and permission. 
+    - Social Technologies: Implement file sharing, cloud-based document management. Collaboration and activity streams both internally and within your community. Make a plan to test and implement telepresence, virtual worlds and emotional sensing.
 10. Establish the Culture
 11. Ask Key Questions Periodically
-12. Building and Maintaining a Platform - Aim to be a platform. Successful ExOs (Apple, Google, Amazon) are all platforms. Companies that didn’t achieve that (Yahoo, Blackberry, Nokia) ended up in trouble.
+    * Who is your customer? 
+    * Which customer problem are you solving? 
+    * What is your solution and does it improve the status quo by at least 10x? 
+    * How will you market the product or service? 
+    * How are you selling the product or service? 
+    * How do you turn customers into advocates using viral effects and Net Promoter 
+    * Scores to drive down the marginal cost of demand? 
+    * How will you scale your customer segment? 
+    * How will you drive the marginal cost of supply towards zero?
+
+12. Building and Maintaining a Platform - Aim to be a platform
+    1. Identify a pain point or use case for a consumer. 
+    2. Identify a core value unit or social object in any interaction between a producer and consumer. This could be anything. Pictures, jokes, advice, reviews, information about sharing rooms, tools and car-rides are examples of things that have led to successful platforms. Remember that many people will be both producers and consumers, and use this to your advantage. 
+    3. Design a way to facilitate that interaction. Then see if you can build it as a small prototype that you can curate yourself. If it works at that level, it will be worth taking to the next level and scaling. 
+    4. Determine how to build a network around your interaction. Find a way to turn your platform user into an ambassador. Before you know it, you’ll be on a roll.
+
 
 ### What is a large and established organization to do? Answer: Transform
 
 ### Mid-market companies 
 Unlike startups (where you can build all of the internal operations from scratch around exponential growth), with established established companies, the solution is inevitably customized: you must start with what already exists and build from there. In other words, there is no universal template for “going exponential.”
 
+### Example GitHub
 As an example, let's take a look at GutHub here. This shows that a company that did not start exponentially has now become one of the top exponential companies. 
 
 GitHub - GitHub has a Massive, Transformative Purpose (an MTP) they call “Social Coding”; it leverages its community, implements algorithms aggressively, and utilizes staff/assets on demand to scale past its organizational boundaries. Internally, they use OKR structures, experiment heavily, constantly take risks and are organized in autonomous team structures that heavily use social collaboration tools
 
-An open source coding and collaboration tool and platform-  was founded by Chris Wanstrath, P.J. Hyett and Tom Preston-Wernerin 2008. It is a social network for programmers in which people and their collaborations are central, rather than just the code itself. When a developer submits code to a GitHub project, that code is reviewed and commented upon by other developers, who also rate that developer. GitHub’s coding environment has instant messaging embedded within it, along with a distributed version control system (instead of a central code repository). In practice, what that means is you don’t need a server; you have everything you need locally, and can start coding without first needing to get permission. And you can do so anywhere, even offline. GitHub has successfully transformed the open source community by implementing virtually all of the ExO principles. 
+Ein Open-Source-Coding- und Kollaborationstool und eine Plattform - wurde 2008 von Chris Wanstrath, P.J. Hyett und Tom Preston-Werner gegründet. Es handelt sich um ein soziales Netzwerk für Programmierer, in dem Menschen und ihre Zusammenarbeit im Mittelpunkt stehen und nicht nur der Code selbst. Wenn ein Entwickler Code an ein GitHub-Projekt sendet, wird dieser Code von anderen Entwicklern geprüft und kommentiert, die diesen Entwickler auch bewerten. Die Programmierumgebung von GitHub ist mit Instant Messaging und einem verteilten Versionskontrollsystem (anstelle eines zentralen Codespeichers) ausgestattet. In der Praxis bedeutet dies, dass Sie keinen Server benötigen; Sie haben alles, was Sie brauchen, lokal und können mit der Programmierung beginnen, ohne erst eine Genehmigung einholen zu müssen. Und Sie können dies überall tun, sogar offline. GitHub hat die Open-Source-Gemeinschaft durch die Umsetzung praktisch aller ExO-Prinzipien erfolgreich verändert. 
 
-In six years, the company has created a community of more than six million developers working collaboratively on more than fifteen million open source software projects. Even more important is that in Silicon Valley today, software developers’ hiring prospects and even salaries are largely determined by their individual ratings on GitHub. And because of the power and influence of that rating system, developers are constantly adding code to GitHub projects in order to boost their personal ratings. This secondary benefit further adds value to the community and the company. In short, GitHub is not only a great example of an Exponential Organization, but its product is also a powerful template for the ExO organizational model: collaborative, open, transparent, community-driven and peopled by staff well equipped and willing to self-select projects. It also offers 10x improvements across the board for different functions, jobs and departments. Bottom line: GitHub is an emergent organization driven by passion and purpose.
-
-Ismail, Salim; Malone, Michael S.; van Geest, Yuri. Exponential Organizations: Why new organizations are ten times better, faster, and cheaper than yours (and what to do about it) (pp. 166-167). Diversion Books. Kindle Edition. 
+In sechs Jahren hat das Unternehmen eine Gemeinschaft von mehr als sechs Millionen Entwicklern geschaffen, die gemeinsam an mehr als fünfzehn Millionen Open-Source-Softwareprojekten arbeiten. Noch wichtiger ist, dass heute im Silicon Valley die Einstellungsaussichten und sogar die Gehälter von Softwareentwicklern weitgehend von ihren individuellen Bewertungen auf GitHub abhängen. Und aufgrund der Macht und des Einflusses dieses Bewertungssystems fügen die Entwickler ständig Code zu GitHub-Projekten hinzu, um ihre persönlichen Bewertungen zu verbessern. Dieser sekundäre Nutzen erhöht den Wert der Gemeinschaft und des Unternehmens weiter. Kurz gesagt, GitHub ist nicht nur ein großartiges Beispiel für eine Exponential Organization, sondern sein Produkt ist auch eine leistungsfähige Vorlage für das ExO-Organisationsmodell: kollaborativ, offen, transparent, gemeinschaftsorientiert und mit Mitarbeitern besetzt, die gut ausgerüstet und bereit sind, Projekte selbst auszuwählen. Außerdem bietet es 10-fache Verbesserungen für verschiedene Funktionen, Arbeitsplätze und Abteilungen. Unterm Strich: GitHub ist eine aufstrebende Organisation, die von Leidenschaft und Zielsetzung angetrieben wird.
 
 ### Large companies 
 what is a large and established organization to do? Answer: Transform. Transformation isn’t easy, however. A big company is like a supertanker: it takes a long time to turn. Nonetheless, it can be done.
