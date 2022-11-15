@@ -1,16 +1,23 @@
 
----
-# Welcome to my presentation about Exponential Organizations
+
+Welcome to my presentation about Exponential Organizations
+=== 
+
+subject: Digital Organization 
+
+date: 15.11.2022
+
+author: Theresa Maier 
+
 ---
 # Agenda
-## Subtitle
-*Italic text*
 1. Introduction
 2. Definiton
 
-![bg cover](Background_16.9.jpg)
+
 
 ---
+
 ## Have you ever heard of the Iridium Moment? 
 ![width:25cm height:25cm; saturate:2.0](Iridium_Google_ExO-16.9.jpg)
 ![bg cover](Background_16.9.jpg)
