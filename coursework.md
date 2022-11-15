@@ -61,57 +61,42 @@ author: Theresa Maier
 
 ## The exponential Age 
 ![width:25cm height:25cm; saturate:1.0](New_Age.jpg)
+![bg cover](Background_16.9.jpg)
 
 ---
 
-# New breed of institutional organism: *the exponential organization(ExO)*
+## New breed of institutional organism: *the exponential organization(ExO)*
 
 | Definition:|
 |--|
 An Exponential Organization (ExO :rocket:) is one *"whose impact (or output) is disproportionally large—at least 10x larger—compared to its peers because of the use of new organizational techniques that leverage accelerating technologies"* (Ismail, 2014). 
-➡️ There are two major assumptions on which this new way of running businesses is built:
 
-"Rent, Don’t own Access resources you don’t own": ExOs rather use external resources than owning their own assets or workforce.
-"Information accelerates everything and is therefore your greatest asset". (information-based environment delivers fundamentally disruptive opportunities)
+![bg cover](Background_16.9.jpg)
 
 --- 
+➡️ There are two major assumptions on which this new way of running businesses is built:
 
-### What circumstances have led to exponential progress becoming a survival factor for companies? 
-1. neither age nor size nor reputation nor even current sales guarantee that you will be around tomorrow
-2. with a minimum of resources and time you can build an organization that is sufficiently scalable, fast moving and smart (compare Airbnb, Uber)
-3. Faced paced world: ([Kurzweil’s Law of Accelerating Returns](https://www.kurzweilai.net/the-law-of-accelerating-returns) and [Moore’s Law](https://www.synopsys.com/glossary/what-is-moores-law.html))
-- *In ten years, 40 percent of existing Fortune 500 Companies would no longer survive.*
-- The Average lifespan of an S&P 500 company has decreased from sixty-seven years in the 1920s to fifteen years today. And that lifespan is going to get even shorter in the years.
+1. "Rent, Don’t own Access resources you don’t own": ExOs rather use external resources than owning their own assets or workforce.
 
-:arrow_right: **This new age calls for a different solution to building new business, to improving rates of success and to solving the challenges that lie ahead.
- Therefore: There must be a better way to organize! - An exponential one!**
+2. "Information accelerates everything and is therefore your greatest asset". (information-based environment delivers fundamentally disruptive opportunities)
 
-## Definition:
-An Exponential Organization (ExO) is one whose impact (or output) is disproportionally large—at least 10x larger—compared to its peersbecause of the use of new organizational techniques that leverage accelerating technologies. :rocket:
+![bg cover](Background_16.9.jpg)
 
- :arrow_right: Two main assumptions: 
- 1. Access resources you don’t own
- 2. Information is your greatest asset.
+---
 
-**Further characteristics:** :rocket:
-- ExOs are built upon <span style="color:red">information technologies</span> that take what was once physical in nature and dematerialize it into the digital, on-demand world.
+## ExO characteristics 
+ExO formula: MTP + IDEAS + SCALE
+![width:20cm height:22cm; saturate:2.0](brain_hemispheres_ExO_attributes_metaphor.png)
 
-- <span style="color:red">**Massive Transformative Purpose**</span> that reflects an organization’s aspiration -> ExOs are focused on transforming the world for a better future *(not only on economic profit)*
-- <span style="color:red">**IDEAS**</span> (internal attributes) 
-    * <span style="color:red">**I**</span>nterfaces
-    * <span style="color:red">**D**</span>ashboards 
-        * OKR Method
-    * <span style="color:red">**E**</span>xperimentation
-    * <span style="color:red">**A**</span>utonomy
-    * <span style="color:red">**S**</span>ocial Technologies
-- <span style="color:red">**SCALE**</span> (external attributes)
-    * <span style="color:red">**S**</span>taff on Demand
-    * <span style="color:red">**C**</span>ommunity & Crowd
-    * <span style="color:red">**A**</span>lgorithms
-    * <span style="color:red">**L**</span>everaged Assets
-    * <span style="color:red">**E**</span>ngagement
+![bg cover](Background_16.9.jpg) 
 
 
+---
+## Exponential Organizations - Examples:
+
+![width:20cm height:22cm; saturate:2.0](ExO-Award1.jpg)
+
+---
 
 Examples for exponential organizations: 
 - Google *(MTP: Organizing world’s information)*
