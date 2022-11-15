@@ -9,7 +9,7 @@ date: 15.11.2022
 author: Theresa Maier 
 
 ---
-# Agenda
+## Agenda
 1. Introduction
 2. Definiton
 
@@ -23,21 +23,21 @@ author: Theresa Maier
 
 
 ---
-Statements from the 2000s that you wouldn't believe were actually said that way:
+## Statements from the 2000s that you wouldn't believe were actually said that way:
 
- | Person| *Statement*|
- |--------------------------------------------------------------|-----------------| 
-  | Steve Jobs (2003): | *"The subscription model for music has failed"*|
- | Paul Krugman *(Nobel Prize winner, well-known economist, advisor to several U.S. presidents)* (1998): | *"The Internet will have no more impact on the economy than the fax machine did"* | 
- |Steve Ballmer *(Ex-CEO Microsoft)* (2007):| *"The iPhone will never gain a significant market share in its lifetime. Not a chance."*|
+| <sub><sub>Person| <sub><sub>*Statement*|
+ --------------------------------------------------------------|-----------------| 
+  | <sub><sub>Steve Jobs (2003): | <sub><sub>*"The subscription model for music has failed"*|
+ | <sub><sub>Paul Krugman *(Nobel Prize winner, well-known economist, advisor to several U.S. presidents)* (1998): | <sub><sub>*"The Internet will have no more impact on the economy than the fax machine did"* | 
+ |<sub><sub>Steve Ballmer *(Ex-CEO Microsoft)* (2007):| <sub><sub>*"The iPhone will never gain a significant market share in its lifetime. Not a chance."*|
 
  ---
 ## Theoretical Approach to an exponential Age
 
- **Moore's Law** the price/performance ratio of computers is doubling every eighteen months
+ **Moore's Law**: *The price/performance ratio of computers is doubling every eighteen months*
 
-     Kurzweil's Law of Accelerating Returns and further observations
-phenomenon applies to every information technology </sub>
+**Kurzweil's Law of Accelerating Returns**: 
+- phenomenon applies to every information technology 
 - Once a field, discipline, technology or industry becomes information enabled and driven by information flows, the price/performance doubles approximately annually, and once that doubling starts, it doesn't stop.
 - Intersecting technologies accelerate the pace of innovation even further - as each crossover adds another multiplier to the equation. 
 ---
