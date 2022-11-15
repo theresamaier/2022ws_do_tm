@@ -66,8 +66,15 @@ author: Theresa Maier
 
 # New breed of institutional organism: *the exponential organization(ExO)*
 
-Definition:
-An Exponential Organization (ExO :rocket:) is one *"whose <span style="color:red">impact (or output) is disproportionally large—at least 10x larger—compared to its peers</span> because of the use of new organizational techniques that leverage accelerating technologies"* (Ismail, 2014). 
+| Definition:|
+|--|
+An Exponential Organization (ExO :rocket:) is one *"whose impact (or output) is disproportionally large—at least 10x larger—compared to its peers because of the use of new organizational techniques that leverage accelerating technologies"* (Ismail, 2014). 
+➡️ There are two major assumptions on which this new way of running businesses is built:
+
+"Rent, Don’t own Access resources you don’t own": ExOs rather use external resources than owning their own assets or workforce.
+"Information accelerates everything and is therefore your greatest asset". (information-based environment delivers fundamentally disruptive opportunities)
+
+--- 
 
 ### What circumstances have led to exponential progress becoming a survival factor for companies? 
 1. neither age nor size nor reputation nor even current sales guarantee that you will be around tomorrow
