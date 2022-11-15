@@ -198,9 +198,8 @@ Nowadays thousands of companies successfully implemented OKRs: Scout 24, ProSieb
 **Example of an OKR from SpaceX:** Strategic level: O: "We have due built first sustainable city on Mars"; KR for Mars mission goal: "We raised 2.5 billion euros for our first unit of wle space travel." . - Project level: I: We launched a crowdfunding campaign on Kickstarter. 
 
 ### <span style="color:red">**E**</span>xperimentation
-This refers to the testing of assumptions and constant experimentation with controlled risks. This allows processes to be adapted to the rapidly changing external factors and huge anjd quick learnings. You may already be familiar with this from the start-up environment, such as the [lean startup methodology](https://www.universitylabpartners.org/blog/what-is-lean-startup-methodology). It involves a continuous loop of  (ideas) building, (code) measuring, (data) learning and thus a continuous improvement process, as proposed by Kaizen. Also the prototyping (Eric Ries) in which a Mininmum-Viable Product is built on which then the iteration loops start is to be emphasized in this context. In general, this enables faster time to a product launch. Thus, experimentation can help maximize value creation in different ways. 
+This refers to the testing of assumptions and constant experimentation with controlled risks. This allows processes to be adapted to the rapidly changing external factors and huge and quick learnings. You may already be familiar with this from the start-up environment, such as the [lean startup methodology](https://www.universitylabpartners.org/blog/what-is-lean-startup-methodology). It involves a continuous loop of  (ideas) building, (code) measuring, (data) learning and thus a continuous improvement process, as proposed by Kaizen. Also the prototyping (Eric Ries) in which a Mininmum-Viable Product is built on which then the iteration loops start is to be emphasized in this context. In general, this enables faster time to a product launch. Thus, experimentation can help maximize value creation in different ways. 
 
-Wer der Meinung ist, dass solche Initiativen von Unternehmen ine unzureichende Kapitalrendite aufweisen  wird auf dauer hinter diesen bleiben. Denn um dauerhaft am Markt überleben zu können benötigt es eben Forschung zur entwicklung bahnbrechende Technologien. 
 
 ### <span style="color:red">**A**</span>utonomy
 Autonomy was describes by Ismail as self-organizing, multi-disciplinary teams operating with decentralized authority.In ExOs employees should be encouraged to start new projects, so long as they fit the company’s MTP. Thereby, Autonomy is becoming a prerequisite for permissionless innovation.
@@ -289,7 +288,7 @@ GitHub is notable for its decentralized, responsive, transparent and self-organi
 |GitHub | | | |
 |--|--|--|--|
 **MTP:**| *"Social Coding"*| 
-**Staff on Demand:**| Use of the Open Source Community for internal work| **Interfaces:** |Anpassung einer Reihe von Funktionen zur Unterstützung der User (z.B. Instant Messaging); Hauptstärke: hochautomatisierte Kontrollmechanismus und das Workflow-Management|
+**Staff on Demand:**| Use of the Open Source Community for internal work| **Interfaces:** |Adaptation of a number of functions to support users (z.B. Instant Messaging); Main strength: highly automated control mechanism and the Workflow-Management|
 **Community & Crowd:**|  New developers (Crowd) are quickly turned into users (Community) due to the collaborative environment. Creation of a new office for all stakeholders to contribute/ learn; open event space available for offline communities  | **Dashboards:** |Monitoring of value metrics about the platform|
 **Algorithms**: |Feedback is codified into algorithms and used for improved version control and workflow| **Experimentation:** |continuous and open iteration of new ideas in every department across the organization|
 **Leveraged Assets:**| GitHub doesn’t own any of the projects hosted on its platform, which itself runs on the cloud. The company does use some of the software from various projects to enhance the platform itself—thus enlisting users into improving their own work environment.| **Autonomy:**| Dezentralization of Authority and decision-making; Self-organizing Teams, focus on applicants with passion, purpose and initiative|
@@ -301,7 +300,7 @@ what is a large and established organization to do? Answer: Transform. Transform
 
 identified four such strategies for large organizations to deploy in an accelerating business world while still keeping their core operational businesses intact: 
 1.	Transform of leadership: 
-    * There are 4 ways to transform the leadership layers of a big company: **Education** (Awareness of accelerating technologies); **Board Management** (especially when the company is using OKRs), **Diversity** (in form of putting young people into positions of power and influence), **Leadership Skills** *(six traits characteristics of ExO leaders: Visionary Customer Advocate; Data driven Experimentalist; Optimistic Realist; Extreme Adaptability; Radical O*peness; Hyper-confident)
+    * There are 4 ways to transform the leadership layers of a big company: **Education** (Awareness of accelerating technologies); **Board Management** (especially when the company is using OKRs), **Diversity** (in form of putting young people into positions of power and influence), **Leadership Skills** *(six traits characteristics of ExO leaders: Visionary Customer Advocate; Data driven Experimentalist; Optimistic Realist; Extreme Adaptability; Radical Openness; Hyper-confident)
 2.	Depending on the current circumstances think about the Creation of an internal ExO, the Acquisition of an ExO or an Investment in an external ExO
 3.	Disrupt[X]. Even though this is a very challenging strategy, there is also the possibility of companies leveraging disruptive technologies themselves. 
 4.	Implement ExO Lite internally.Companies can also maintain their status quo and then only adopt some of the characteristics of an ExO (SCALE & IDEAS) in specific areas. Any approach to an ExO can accelerate the business processes and strengthen the competitive position of the company. Therefore, at least a Lite version of a ExO transformation is highly recommended. 
@@ -335,7 +334,23 @@ Despite its innovative business model and the strong positioning of Google, the 
 
 Google uses three criteria to decide whether or not to pursue an idea. First, it must address a challenge that affects hundreds to millions of people. Second, it must be radically different from existing market solutions. And last, the required technologies must be feasible in the near future. 
 
-Through its algorithms, data-driven decision-making process, dashboards, interfaces,  experimentation investments among other things, Google has made it to 5th place of the 100 identified ExOs. In doing so, Google has scored 73 points of the maximum 84 points from the Exponantial Organization Assessment by Ismail et al.. According to its MTP, Google faces and is guided by the question "How can I better organize the world's information?" on a daily basis. Already, numerous innovations from Google's portfolio have already raised the technological standard to a new level and accelerated change. Let's wait and see what's coming next.  
+Through its algorithms, data-driven decision-making process, dashboards, interfaces,  experimentation investments among other things, Google has made it to 5th place of the 100 identified ExOs. In doing so, Google has scored 73 points of the maximum 84 points from the Exponential Organization Assessment by Ismail et al.. According to its MTP, Google faces and is guided by the question "How can I better organize the world's information?" on a daily basis. Already, numerous innovations from Google's portfolio have already raised the technological standard to a new level and accelerated change. Let's wait and see what's coming next.  
 
 ## Sources:
-Ismail, Salim; Malone, Michael S.; van Geest, Yuri. Exponential Organizations: Why new organizations are ten times better, faster, and cheaper than yours (and what to do about it) (p. 13). Diversion Books. Kindle Edition. 
+1. Die Erfolgsstory hinter OKRs bei Google. (n.d.). Retrieved November 13, 2022, from https://www.workpath.com/magazin/okr-google
+2. Doerr, J., & Page, L. (2018). Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs (Illustriert. edition). Portfolio.
+3. dpa. (2022, September 9). Internet-Suche: Google.com vor 25 Jahren registriert. Die Zeit. https://www.zeit.de/news/2022-09/09/google-com-vor-25-jahren-registriert?utm_referrer=https%3A%2F%2Fwww.google.com%2F
+4. Exponential Quotient (ExQ) Survey. (n.d.). Openexo. Retrieved November 13, 2022, from https://exqsurvey.com/
+5. Goeke, N. (2015, December 30). How Google Works Summary. Four Minute Books. https://fourminutebooks.com/how-google-works-summary/
+6. Google Inc. - Chronologie und Dienste. (2016). Limes 8. https://limes-8.com/de/unternehmen/google/
+7. GV (Director). (2013, May 14). How Google sets goals: OKRs / Startup Lab Workshop. https://www.youtube.com/watch?v=mJB83EZtAjc
+8. Hacking, N. S.-G. (2018, May 29). Innovate or die. Medium. https://nadersabry.medium.com/innovate-or-die-eedc81fe2f8d
+9. Homepage. (n.d.). What Matters. Retrieved November 13, 2022, from https://www.whatmatters.com/
+10. Ismail, S. (2015, April 7). The Secrets of Unicorn Companies (and the 100 Most Scalable Organizations). Singularity Hub. https://singularityhub.com/2015/04/07/the-secrets-of-unicorn-companies-and-the-100-most-scalable-organizations/
+11. Ismail, S., Malone, M. S., & Geest, Y. van. (2014). Exponential organizations: Why new organizations are ten times better, faster, and cheaper than yours (and what to do about it) (1. ed). Diversion Books.
+12. Ismail, S., Malone, M. S., Geest, Y. van, & Diamandis, P. H. (2017). Exponentielle Organisationen: Das Konstruktionsprinzip für die Transformation von Unternehmen im Informationszeitalter (M. Kauschke, Trans.; 1st edition). Vahlen.
+13. Langley, K. (2020, January 9). Why Try to Become an Exponential Organization? Openexo Blog. http://blog.openexo.com/why-try-to-become-an-exponential-organization
+14. Let’s build from here—The complete developer platform to build, scale, and deliver secure software. (n.d.). GitHub. Retrieved November 10, 2022, from https://github.com/about
+15. Statista Research Department. (2022). Google—Umsatz weltweit 2021. Statista. https://de.statista.com/statistik/daten/studie/541785/umfrage/umsatz-von-google-weltweit/
+16. Top100—OpenExO. (n.d.). Retrieved November 10, 2022, from https://openexo.com/top100/
+17. Wietlisbach, O. (2017, January 16). Irren ist menschlich: Die grössten Fehlprognosen der Tech-Geschichte. watson.ch. https://www.watson.ch/!460348669

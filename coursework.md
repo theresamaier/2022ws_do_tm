@@ -150,7 +150,36 @@ Companies can either be established as ExO, or existing companies can take advan
 
 ---
 
-## Resources
-* Ismail, Salim; Malone, Michael S.; van Geest, Yuri. Exponential Organizations: Why new organizations are ten times better, faster, and cheaper than yours (and what to do about it) (p. 83). Diversion Books. Kindle Edition. 
+## Sources
 
-![bg cover](Background_16.9.jpg)
+
+1. Die Erfolgsstory hinter OKRs bei Google. (n.d.). Retrieved November 13, 2022, from https://www.workpath.com/magazin/okr-google
+2. Doerr, J., & Page, L. (2018). Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs (Illustriert. edition). Portfolio.
+3. dpa. (2022, September 9). Internet-Suche: Google.com vor 25 Jahren registriert. Die Zeit. https://www.zeit.de/news/2022-09/09/google-com-vor-25-jahren-registriert?utm_referrer=https%3A%2F%2Fwww.google.com%2F
+
+---
+
+4. Exponential Quotient (ExQ) Survey. (n.d.). Openexo. Retrieved November 13, 2022, from https://exqsurvey.com/
+5. Goeke, N. (2015, December 30). How Google Works Summary. Four Minute Books. https://fourminutebooks.com/how-google-works-summary/
+6. Google Inc. - Chronologie und Dienste. (2016). Limes 8. https://limes-8.com/de/unternehmen/google/
+7. GV (Director). (2013, May 14). How Google sets goals: OKRs / Startup Lab Workshop. https://www.youtube.com/watch?v=mJB83EZtAjc
+
+---
+
+8. Hacking, N. S.-G. (2018, May 29). Innovate or die. Medium. https://nadersabry.medium.com/innovate-or-die-eedc81fe2f8d
+9. Homepage. (n.d.). What Matters. Retrieved November 13, 2022, from https://www.whatmatters.com/
+10. Ismail, S. (2015, April 7). The Secrets of Unicorn Companies (and the 100 Most Scalable Organizations). Singularity Hub. https://singularityhub.com/2015/04/07/the-secrets-of-unicorn-companies-and-the-100-most-scalable-organizations/
+11. Ismail, S., Malone, M. S., & Geest, Y. van. (2014). Exponential organizations: Why new organizations are ten times better, faster, and cheaper than yours (and what to do about it) (1. ed). Diversion Books.
+--- 
+
+12. Ismail, S., Malone, M. S., Geest, Y. van, & Diamandis, P. H. (2017). Exponentielle Organisationen: Das Konstruktionsprinzip für die Transformation von Unternehmen im Informationszeitalter (M. Kauschke, Trans.; 1st edition). Vahlen.
+13. Langley, K. (2020, January 9). Why Try to Become an Exponential Organization? Openexo Blog. http://blog.openexo.com/why-try-to-become-an-exponential-organization
+14. Let’s build from here—The complete developer platform to build, scale, and deliver secure software. (n.d.). GitHub. Retrieved November 10, 2022, from https://github.com/about
+
+---
+
+15. Statista Research Department. (2022). Google—Umsatz weltweit 2021. Statista. https://de.statista.com/statistik/daten/studie/541785/umfrage/umsatz-von-google-weltweit/
+16. Top100—OpenExO. (n.d.). Retrieved November 10, 2022, from https://openexo.com/top100/
+17. Wietlisbach, O. (2017, January 16). Irren ist menschlich: Die grössten Fehlprognosen der Tech-Geschichte. watson.ch. https://www.watson.ch/!460348669
+
+
