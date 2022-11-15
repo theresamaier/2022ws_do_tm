@@ -4,7 +4,7 @@
  ***Learn more about what's behind the Iridium Moment and why organizations should strive to become a unicorn :unicorn: company . Enjoy reading.*** 
 
 ## Have you ever heard of the Iridium Moment? 
-![Iridium_Google_ExO](Iridium_Google_ExO-16.9.jpg) 
+![Iridium_Google_ExO](Google_Iridium_16-9.jpg) 
 
 
 ### If not - here is a short introduction: 
@@ -60,7 +60,7 @@ So if we look back now at the tremendous upheavals that have taken place in the 
 | The speed with which new companies reach market capitalization has risen sharply, but the lifespan of company is going to become shorter and shorter. |
 |--|
 
-![Market_cap_to_a_Billion_Lifespan_Decrease](Draft1.jpg)
+![Market_cap_to_a_Billion_Lifespan_Decrease](New_Age.jpg)
 
 Examples: YouTube went from a startup funded by Chad Hurley’s personal credit cards to being purchased by Google for $1.4 billion, all in less than eighteen months. Groupon leapt from conception to $6 billion in value in less than two years. Uber is valued at almost $17 billion, ten times its value of just two years ago.
 - *In ten years, 40 percent of existing Fortune 500 Companies would no longer survive.*
@@ -109,7 +109,7 @@ Examples of MTPs:
 
 The formula for ExOs is based on the MTP and the associated external and internal characteristics. To better memorize them, you can use the acronyms *SCALE* and *IDEAS* and/or stick to the metaphor of the two hemispheres of the brain!
 
-![brain_hemispheres_ExO_attributes_metaphor](brain_hemispheres_ExO_attributes_metaphor.png) 
+![brain_hemispheres_ExO_attributes_metaphor](Two_Brain_Hemispheres_16-9.jpg) 
 
 *Note:  Not every ExO has all ten attributes but the more it has, the more scalable it tends to be. Their research indicates that a minimum of four implemented attributes will achieve the ExO label. SCALE and IDEAS elements are self-reinforcing and integrative. *
 
@@ -216,22 +216,10 @@ While reading the characteristics, you must have already thought of several comp
 
 Let's take a look at the findings of the company's diagnostics regarding ExO: (maximum score 84 points)
 
-first Place: Github (Founded 2008) - ExQ Score 76
-second place Airbnb (founded 2008) ExQ Score 74
-third place uber (funded 2009) ExQ Score 73 
-4. Indiegogo
 
-5. Google -> Google Ventures was identified as the benchmark company with an exponential quotient of 76 out of 84. 
+![Award](ExO-Award1.jpg)
 
-6. Pinterest
 
-7. Kaggle
-
-8. Tumblr
-
-9. Quirky
-
-10. Shapeways.
 
 All hundred ExOs can be seen via [here](https://openexo.com/top100/). 
 
@@ -248,24 +236,14 @@ Companies can either be established as ExO, or existing companies can take advan
 2. Join or Create Relevant MTP Communities
 3. Compose a Team - (optimally four people). We recommend a visionary, UX expert, engineering guru and a business/finance expert.
 4. Breakthrough Idea - that delivers a minimum 10x improvement over the status quo. Let’s note that we don’t begin with the core idea — that way you’re not tied to a particular solution, but rather the problem space.
-5. Build a Business Model Canvas
-6. Find a Business Model
-    * 8 ways to build a business model when the underlying information is free (list offers a set of working business models for an information age)
-        * Immediacy *(time confers privilege)*
-        * Personalization 
-        * Interpretation
-        * Authenticity
-        * Accessibility
-        * Embodiment 
-        * Patronage 
-        * Findability 
-7. Build the MVP - But they iterated rapidly with initial customer data and were ultimately successful.
-8. Validate Marketing and Sales
+5. Build a Business Model Canvas & Find a Business Model
+6. Build the MVP - But they iterated rapidly with initial customer data and were ultimately successful.
+7. Validate Marketing and Sales
     - **Acquisition:** How do users locate you? (Growth metric)
     - **Activation:** Do users have a great first experience? (Value metric) Retention: Do users come back? (Value metric) 
     - **Revenue:** How do you make money? (Value metric) 
     - **Referral:** Do users tell others? (Growth metric)
-9. Implement SCALE and IDEAS
+8. Implement SCALE and IDEAS
     - **MTP:** Formulate an MTP in a particular problem space, one that all founders feel passionate about. 
     - **Staff on Demand:** Use contractors, SoD platforms wherever possible; keep FTEs to a minimum. 
     - **Community & Crowd:** Validate idea in MTP communities. Get product feedback. Find co-founders, contractors and experts. Use crowdfunding and crowdsourcing to validate market demand and as a marketing technique. 
@@ -276,8 +254,8 @@ Companies can either be established as ExO, or existing companies can take advan
     - Experimentation: Establish culture of experimentation and constant iteration. Be willing to fail and pivot as needed. 
     - Autonomy: Implement lite version of Holacracy. Start with the General Company Circle as a first step; then move onto governance meetings. Implement the GitHub technical and organizational model with radical openness, transparency and permission. 
     - Social Technologies: Implement file sharing, cloud-based document management. Collaboration and activity streams both internally and within your community. Make a plan to test and implement telepresence, virtual worlds and emotional sensing.
-10. Establish the Culture
-11. Ask Key Questions Periodically
+9. Establish the Culture
+10. Ask Key Questions Periodically
     * Who is your customer? 
     * Which customer problem are you solving? 
     * What is your solution and does it improve the status quo by at least 10x? 
@@ -288,7 +266,7 @@ Companies can either be established as ExO, or existing companies can take advan
     * How will you scale your customer segment? 
     * How will you drive the marginal cost of supply towards zero?
 
-12. Building and Maintaining a Platform - Aim to be a platform
+11. Building and Maintaining a Platform - Aim to be a platform
     1. Identify a pain point or use case for a consumer. 
     2. Identify a core value unit or social object in any interaction between a producer and consumer. This could be anything. Pictures, jokes, advice, reviews, information about sharing rooms, tools and car-rides are examples of things that have led to successful platforms. Remember that many people will be both producers and consumers, and use this to your advantage. 
     3. Design a way to facilitate that interaction. Then see if you can build it as a small prototype that you can curate yourself. If it works at that level, it will be worth taking to the next level and scaling. 
