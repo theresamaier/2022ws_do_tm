@@ -4,6 +4,7 @@ theme: gaia
 color: #000
 colorSecondary: #333
 backgroundColor: #fff
+size: 16:9
 backgroundImage: url('https://marp.app/assets/hero-background.jpg')
 paginate: true
 
