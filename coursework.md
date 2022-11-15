@@ -1,5 +1,6 @@
 
 
+
 ## Welcome to my presentation about Exponential Organizations
 
 subject: Digital Organization 
@@ -11,6 +12,7 @@ author: Theresa Maier
 ---
 ## Agenda
 1. Introduction
+
 2. Definiton
 
 
@@ -32,6 +34,7 @@ author: Theresa Maier
  |<sub><sub>Steve Ballmer *(Ex-CEO Microsoft)* (2007):| <sub><sub>*"The iPhone will never gain a significant market share in its lifetime. Not a chance."*|
 
  ---
+ 
 ## Theoretical Approach to an exponential Age
 
  **Moore's Law**: *The price/performance ratio of computers is doubling every eighteen months*
