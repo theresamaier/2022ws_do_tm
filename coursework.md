@@ -7,7 +7,6 @@ backgroundColor: #fff
 size: 3:4 
 backgroundImage: url('https://marp.app/assets/hero-background.jpg')
 paginate: true
-
 ---
 
 
@@ -39,7 +38,6 @@ author: Theresa Maier
 
 |Person| *Statement*|
  --------------------------------------------------------------|-----------------| 
-  |Steve Jobs (2003): | *"The subscription model for music has failed"*|
  | Paul Krugman *(Nobel Prize winner, well-known economist, advisor to several U.S. presidents)* (1998): | *"The Internet will have no more impact on the economy than the fax machine did"* | 
  |Steve Ballmer *(Ex-CEO Microsoft)* (2007):| *"The iPhone will never gain a significant market share in its lifetime. Not a chance."*|
 
@@ -76,7 +74,7 @@ An Exponential Organization (ExO :rocket:) is one *"whose impact (or output) is 
 --- 
 ➡️ There are two major assumptions on which this new way of running businesses is built:
 
-1. "Rent, Don’t own Access resources you don’t own": ExOs rather use external resources than owning their own assets or workforce.
+1. "Rent, Don’t own/ Access resources you don’t own": ExOs rather use external resources than owning their own assets or workforce.
 
 2. "Information accelerates everything and is therefore your greatest asset". (information-based environment delivers fundamentally disruptive opportunities)
 
@@ -90,24 +88,21 @@ ExO formula: MTP + IDEAS + SCALE
 
 ![bg cover](Background_16.9.jpg) 
 
+---
+
+## Examples of MTPs: 
+- Google: *"Organizing world’s information"*
+- Airbnb: *"Everyone belongs everywhere"*
+- TED: *"Ideas worth spreading"*
+- Tesla: *"Accelerate the transition to sustainable transportation"*
+- Uber: *"Transportation as reliable as running water"*
 
 ---
 ## Exponential Organizations - Examples:
 
-![width:20cm height:22cm; saturate:2.0](ExO-Award1.jpg)
+![width:25cm height:25cm; saturate:2.0](ExO-Award1.jpg)
 
 ---
 
-Examples for exponential organizations: 
-- Google *(MTP: Organizing world’s information)*
-- Airbnb *(MTP: Everyone belongs everywhere)*
-- Uber
-- Facebook 
-
-
-Interface: AdWords
-Description: User picks keywords to advertise against
-Internal Usage: Google places ads against search results 
-SCALE Attribute: Algorithms 
-
-Ismail, Salim; Malone, Michael S.; van Geest, Yuri. Exponential Organizations: Why new organizations are ten times better, faster, and cheaper than yours (and what to do about it) (p. 83). Diversion Books. Kindle Edition. 
+## Resources
+* Ismail, Salim; Malone, Michael S.; van Geest, Yuri. Exponential Organizations: Why new organizations are ten times better, faster, and cheaper than yours (and what to do about it) (p. 83). Diversion Books. Kindle Edition. 
