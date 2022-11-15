@@ -1,11 +1,6 @@
----
 
+---
 # Welcome to my presentation about Exponential Organizations
-
-
----
-
-
 ---
 # Agenda
 ## Subtitle
