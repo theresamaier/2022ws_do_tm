@@ -1,4 +1,13 @@
+---
+marp: true
+theme: gaia
+color: #000
+colorSecondary: #333
+backgroundColor: #fff
+backgroundImage: url('https://marp.app/assets/hero-background.jpg')
+paginate: true
 
+---
 
 
 ## Welcome to my presentation about Exponential Organizations
@@ -33,8 +42,8 @@ author: Theresa Maier
  | <sub><sub>Paul Krugman *(Nobel Prize winner, well-known economist, advisor to several U.S. presidents)* (1998): | <sub><sub>*"The Internet will have no more impact on the economy than the fax machine did"* | 
  |<sub><sub>Steve Ballmer *(Ex-CEO Microsoft)* (2007):| <sub><sub>*"The iPhone will never gain a significant market share in its lifetime. Not a chance."*|
 
+
  ---
- 
 ## Theoretical Approach to an exponential Age
 
  **Moore's Law**: *The price/performance ratio of computers is doubling every eighteen months*
@@ -43,7 +52,9 @@ author: Theresa Maier
 - phenomenon applies to every information technology 
 - Once a field, discipline, technology or industry becomes information enabled and driven by information flows, the price/performance doubles approximately annually, and once that doubling starts, it doesn't stop.
 - Intersecting technologies accelerate the pace of innovation even further - as each crossover adds another multiplier to the equation. 
+
 ---
+
 ## The exponential Age 
 ![width:25cm height:25cm; saturate:1.0](New_Age.jpg)
 
