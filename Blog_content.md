@@ -4,7 +4,7 @@
  ***Learn more about what's behind the Iridium Moment and why organizations should strive to become a unicorn :unicorn: company . Enjoy reading.*** 
 
 ## Have you ever heard of the Iridium Moment? 
-![Iridium_Google_ExO](Iridium_Google_ExO.jpeg) 
+![Iridium_Google_ExO](Iridium_Google_ExO-16.9.jpg) 
 
 
 ### If not - here is a short introduction: TESTtest
@@ -20,9 +20,6 @@
  | Steve Jobs (2003): | *"The subscription model for music has failed"*|
  | Paul Krugman *(Nobel Prize winner, well-known economist, advisor to several U.S. presidents)* (1998): | *"The Internet will have no more impact on the economy than the fax machine did"* | 
  |Steve Ballmer *(Ex-CEO Microsoft)* (2007):| *"The iPhone will never gain a significant market share in its lifetime. Not a chance."*|
-
-<span style="color:gray"; Georgia, serif;
-font-size: 16px; letter-spacing: 2px; word-spacing: 2px; color: #000000; font-weight: normal; text-decoration: none; font-style: normal; font-variant: normal;text-transform: none>test</span>
 
 This shows that even the greatest visionaries and thinkers occasionally misjudge some of the rapid developments and the associated social change. 
 
@@ -211,6 +208,9 @@ Autonomy was describes by Ismail as self-organizing, multi-disciplinary teams op
  ### <span style="color:red">**S**</span>ocial Technologies
 Social technologies create horizontal interactions in vertically organized companies. They foster the speed of decision cycles, learning, and are able to stabilize the team during rapid growth.  Social technologies are composed of seven key elements: Social objects, activity streams, task management, file sharing, telepresence, virtual worlds, and emotional awareness. When implemented, these elements create transparency and connectedness, and most importantly, reduce an organization's information latency. According to Priestleys equation, a social business requires an interplay of connection, engagement, trust and transparency. J.P. Rangaswami sees shortening the time between acquiring (and processing) information and making decisions, shifting from the need to look up information to the flow of information through your perceptions, and using community to develop ideas as three main goals of social technologies.
 
+SCALE and IDEAS elements are self-reinforcing and integrative.
+
+Ismail, Salim; Malone, Michael S.; van Geest, Yuri. Exponential Organizations: Why new organizations are ten times better, faster, and cheaper than yours (and what to do about it) (p. 109). Diversion Books. Kindle Edition. 
 
 ## Exponential Organizations 
 
@@ -314,21 +314,34 @@ iv.	Partner with Accelerators, Incubators and Hackerspaces
 
 
 # Lets have a look on Google: 
+Everyone knows Google. Today, in an era of winner-takes-all markets, there is predominantly one search engine that accounts for 73% of all Internet searches worldwide - Google. In fact, "googeln" was added to the Duden dictionary in 2004 as a verb for searching/researching on the Internet. Which other search engine can make that claim? 
 
-On the other hand, Google’s intensive growth strategies help support the company in keeping its position as one of the most valuable brands in the world. For example, continuous improvement of products ensures that the business maintains its share of the online market. Through its generic strategy, the company has become a major player influencing the competitive landscape and development of the online advertising industry, as well as other that depend on the Internet. The combination of Google’s intensive strategies and its generic competitive strategy is effective in satisfying the firm’s needs for continued business growth and leadership in the global industry.
+### Google's evolution and success story
+ 
+When Jonathan Rosenberg Senior Vice President of Google wrote the founding strategy for Google in 2002, he defined three main points:
+- Technological foundation: each new product should be based on a major technical insight e.g. a new way of applying design or technology to lower the price or increase the functionality of a product.
+- Accelerate growth on a global level: the best way to scale up is to develop a platform: a combination of products and services that create new markets and bring people together.
+- Openness: Share information with the world. This has already enabled employees to create many innovative solutions to unexpected problems.
 
-For the first time ever, Unicorns/ExOs are leveraging this new scalability by pushing vital functions outside their core org structures, thus dropping the cost of supply exponentially. 
-Google’s marginal cost to running an extra search query is almost zero. 
+According to the analysis by Salim et al., Google has increased its valuation by 2.5x within three years. In 2011, the valuation was $150 billion, and in 2014 it was already $400 billion. The exponential growth can be shown even more explicitly when comparing the beginning revenues to those now. In 2002, Google's revenue was less than half a billion dollars. Ten years later, revenue had increased 125-fold, and the company was generating half a billion dollars every three days. By 2021, Google's total revenues were around $256.74 billion. Alphabet, the parent company of the group, generated a total of about $257.64 billion in the same period. Thus, nearly all of Alphabet's revenue is generated by Google.
 
-Experimentation: 
-Google[X]-Labors zur Entwicklung neuer Produkte - Dabei konzentrieren sie sich nicht wie viele herkömmliche unternehmenslabore auf bestehende Märkte, sondern wollen völlig neue Märkte für das Unternehmen durch Ideen mit Mondscheinqualität ab (z. B. Lebensverlängerung, autonome Fahrzeuge, Google Glass, intelligente Kontaktlinsen, Project Loon usw.) schaffen. 
-Die Einrichtung und Förderung des Labors zur Experimentieren und die Kernkompetenzen von Google im Bereich Information führen daher zu einer guten positionierung. 
+Google itself has managed to scale rapidly through its platform model with its search capabilities. At the heart of this staggering growth has been the PageRank algorithm, an algorithm that ranks the popularity of web pages. The algorithms simply respond to the pages that bring the most clicks. After reaching the critical to mass, the AdWords platform enabled the company to provide advertising platforms itself for other companies to build upon. As a result, Google shaped the competitive landscape and the evolution of the online advertising industry, and also influenced other industries dependent on the Internet. Charges for actual clicks on advertisements served as a source of revenue. By matching ads in the environment, what the user is looking for the success rate and thus the revenue is increased.  Here we can already see a key feature of ExOs, as Google does not own the websites that it scans. Thus, Google's marginal cost to running an extra search query is almost zero. In addition to the algorithm, the information assets are of enormous value to Google and enable the incredible scalability.
 
-Autonomie: 
-m März 2009 gründete Bill Maris Google Ventures, den unternehmenseigenen Risikokapitalfonds von Google, mit einer Kapitalzusage von 100 Millionen Dollar. Heute, nach fünf Jahren, hat sich das Unternehmen zu einem der aktivsten und erfolgreichsten VCs entwickelt, mit sechzig Mitarbeitern (alle Partner) und 1,5 Milliarden Dollar unter Verwaltung. Das ist ein ExO-Schritt, der eine 15-fache Steigerung innerhalb von fünf Jahren bedeutet. Google Ventures hat bereits mehr als zwanzig erfolgreiche Exits durchgeführt und dabei Renditen erzielt, die weit über dem Marktdurchschnitt für Risikokapitalfonds liegen. 
-Ein wesentliches Unterscheidungsmerkmal von Google Ventures ist der Einsatz von Datenanalysen und Algorithmen zur Beurteilung von Geschäften. Das Unternehmen beschäftigt sieben Datenwissenschaftler, die so viele Daten wie möglich sammeln und analysieren, bevor sie entscheiden, wo sie investieren. Maris sagte: "Wir haben Zugang zu den weltweit größten Datensätzen, die man sich vorstellen kann. Unsere Cloud-Computer-Infrastruktur ist die größte aller Zeiten. --> data driven 
-Der Fonds verwendet OKRs, um den Fortschritt seiner Portfoliounternehmen zu verfolgen, und stützt sich dabei stark auf Echtzeit-Kennzahlen - alles wird quantifiziert
+### The value of data and information to Google
 
-Tatsächlich ist dies einer der größten Vorteile, die Google Ventures bietet: einzigartiger Zugang zu einigen der besten Ingenieure, Wissenschaftler und Technologen der Welt. Ein Community-Portal verbindet das GV-Team mit Google-Mitarbeitern und Kollegen aus anderen Portfolio-Unternehmen. 
+Google is considered one of the most data-driven companies, which must be essential to its success. Data-driven insights also provide an important countersight and reality check to traditional management decisions based on intuition. For almost every business function, Google uses data. For example, in its hiring practices. Google is known for using games to provide data to qualify potential employees. But gamification is also used to overcome challenges and problems with the help of a community.
+
+The value of information in today's world also becomes clear with regard to Google's innovations for generating and profiting from information on a completely different scale. Worth mentioning here is, for example, the Google car with its lidar (light radar), which scans the surroundings with sixty-four lasers. This generates almost a gigabyte of data per second per car and creates a 3D image of its surroundings with a resolution of one centimeter, which can be merged into a live 3D map of the surroundings with a range of about a hundred meters. But it also revolutionizes the quality of information, since it is not just static information, but dynamic information - data that captures how things change. 
+
+Another example is Google Glass, the smart glasses that can record or transmit videos or images in real time as people move throughout the day. 
+
+### Continuous Improvement through experimentation as an essential competitive factor
+
+Despite its innovative business model and the strong positioning of Google, the company is particularly characterized by its drive for continuous improvement and future research to maintain its position in the future. Therefore, Google works under the 70/20/10 rule, whereby 70% of its resources are allocated to its core business, 20% to new products, and 10% to completely new initiatives. This means that 10% of the budget is spent on experimentation aimed at developing breakthrough technologies. With resources, however, not only financial means are meant, but also human resources. For example, Google is known for its employee management and work culture that is very encouraging of creativity and innovation. For example, Google allows each engineer to spend 20% of their time on things they believe will benefit Google the most. Even one of the company's most successful products, Gmail, was developed by an engineer in his spare time. In such a creativity-promoting corporate culture, tolerance of or even a positive approach to failure is also important. The latter can be achieved, for example, through the belief that if projects are ambitious enough, they will deliver valuable technical and user insights even if they fail. Of course, this also calls for management, which should not try to reduce risks or prevent failures, but rather create an environment that is resilient enough to take those risks and deal with missteps. Of particular note in regard of experimentation is the Google[X] lab for new product development - Here, rather than focusing on existing markets like many traditional enterprise labs, they aim to create entirely new markets for the company through moonshot quality ideas from (e.g. life extension, autonomous vehicles, Google Glass, smart contact lenses, Project Loon, etc.).
+
+Google uses three criteria to decide whether or not to pursue an idea. First, it must address a challenge that affects hundreds to millions of people. Second, it must be radically different from existing market solutions. And last, the required technologies must be feasible in the near future. 
+
+Through its algorithms, data-driven decision-making process, dashboards, interfaces,  experimentation investments among other things, Google has made it to 5th place of the 100 identified ExOs. In doing so, Google has scored 73 points of the maximum 84 points from the Exponantial Organization Assessment by Ismail et al.. According to its MTP, Google faces and is guided by the question "How can I better organize the world's information?" on a daily basis. Already, numerous innovations from Google's portfolio have already raised the technological standard to a new level and accelerated change. Let's wait and see what's coming next.  
+
 ## Sources:
 Ismail, Salim; Malone, Michael S.; van Geest, Yuri. Exponential Organizations: Why new organizations are ten times better, faster, and cheaper than yours (and what to do about it) (p. 13). Diversion Books. Kindle Edition. 
