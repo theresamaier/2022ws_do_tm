@@ -7,7 +7,7 @@
 ![Iridium_Google_ExO](Iridium_Google_ExO-16.9.jpg) 
 
 
-### If not - here is a short introduction: TESTtest
+### If not - here is a short introduction: 
 
  
  
@@ -111,7 +111,7 @@ The formula for ExOs is based on the MTP and the associated external and interna
 
 ![brain_hemispheres_ExO_attributes_metaphor](brain_hemispheres_ExO_attributes_metaphor.png) 
 
-*Note:  Not every ExO has all ten attributes but the more it has, the more scalable it tends to be. Their research indicates that a minimum of four implemented attributes will achieve the ExO label. *
+*Note:  Not every ExO has all ten attributes but the more it has, the more scalable it tends to be. Their research indicates that a minimum of four implemented attributes will achieve the ExO label. SCALE and IDEAS elements are self-reinforcing and integrative. *
 
 ### **Let's have a closer look on these attributes:**
 
@@ -208,9 +208,6 @@ Autonomy was describes by Ismail as self-organizing, multi-disciplinary teams op
  ### <span style="color:red">**S**</span>ocial Technologies
 Social technologies create horizontal interactions in vertically organized companies. They foster the speed of decision cycles, learning, and are able to stabilize the team during rapid growth.  Social technologies are composed of seven key elements: Social objects, activity streams, task management, file sharing, telepresence, virtual worlds, and emotional awareness. When implemented, these elements create transparency and connectedness, and most importantly, reduce an organization's information latency. According to Priestleys equation, a social business requires an interplay of connection, engagement, trust and transparency. J.P. Rangaswami sees shortening the time between acquiring (and processing) information and making decisions, shifting from the need to look up information to the flow of information through your perceptions, and using community to develop ideas as three main goals of social technologies.
 
-SCALE and IDEAS elements are self-reinforcing and integrative.
-
-Ismail, Salim; Malone, Michael S.; van Geest, Yuri. Exponential Organizations: Why new organizations are ten times better, faster, and cheaper than yours (and what to do about it) (p. 109). Diversion Books. Kindle Edition. 
 
 ## Exponential Organizations - Examples:
 
@@ -306,11 +303,20 @@ Unlike startups (where you can build all of the internal operations from scratch
 ### Example GitHub
 As an example, let's take a look at GutHub here. This shows that a company that did not start exponentially has now become one of the top exponential companies. 
 
-GitHub - GitHub has a Massive, Transformative Purpose (an MTP) they call “Social Coding”; it leverages its community, implements algorithms aggressively, and utilizes staff/assets on demand to scale past its organizational boundaries. Internally, they use OKR structures, experiment heavily, constantly take risks and are organized in autonomous team structures that heavily use social collaboration tools
+GitHub was founded in 2008 by Chris Wanstrath, P.J. Hyett, and Tom Preston-Werner and is an open source coding and collaboration tool and platform.
+Within six years, the company's community grew to more than six million developers working together on more than fifteen million open source software projects.
+GitHub is notable for its decentralized, responsive, transparent and self-organizing company culture, which relies heavily on social collaboration tools. It actively leverages its community and deploys people or assets as needed to scale beyond its organizational boundaries. As an advantage, it turns out that the hiring prospects in Silicon Valley and even the salaries of software developers largely depend on their individual ratings on GitHub, which is why developers also actively participate on GitHub primarily in their own interest. This secondary benefit further increases the value of the community and the company. In line with further ExO characteristics, GitHub experiments a lot and also uses internal OKR structures. Subsequently, GitHub's platform is a powerful template for the ExO organizational model because it is designed to be collaborative, open, transparent, community-oriented, and staffed with people who are well-equipped and willing to self-select projects. GitHub is at the forefront of ExOs for a reason. It meets all the ExO principles *(compare table below)* and has transformed the open source community as a result. 
 
-Ein Open-Source-Coding- und Kollaborationstool und eine Plattform - wurde 2008 von Chris Wanstrath, P.J. Hyett und Tom Preston-Werner gegründet. Es handelt sich um ein soziales Netzwerk für Programmierer, in dem Menschen und ihre Zusammenarbeit im Mittelpunkt stehen und nicht nur der Code selbst. Wenn ein Entwickler Code an ein GitHub-Projekt sendet, wird dieser Code von anderen Entwicklern geprüft und kommentiert, die diesen Entwickler auch bewerten. Die Programmierumgebung von GitHub ist mit Instant Messaging und einem verteilten Versionskontrollsystem (anstelle eines zentralen Codespeichers) ausgestattet. In der Praxis bedeutet dies, dass Sie keinen Server benötigen; Sie haben alles, was Sie brauchen, lokal und können mit der Programmierung beginnen, ohne erst eine Genehmigung einholen zu müssen. Und Sie können dies überall tun, sogar offline. GitHub hat die Open-Source-Gemeinschaft durch die Umsetzung praktisch aller ExO-Prinzipien erfolgreich verändert. 
 
-In sechs Jahren hat das Unternehmen eine Gemeinschaft von mehr als sechs Millionen Entwicklern geschaffen, die gemeinsam an mehr als fünfzehn Millionen Open-Source-Softwareprojekten arbeiten. Noch wichtiger ist, dass heute im Silicon Valley die Einstellungsaussichten und sogar die Gehälter von Softwareentwicklern weitgehend von ihren individuellen Bewertungen auf GitHub abhängen. Und aufgrund der Macht und des Einflusses dieses Bewertungssystems fügen die Entwickler ständig Code zu GitHub-Projekten hinzu, um ihre persönlichen Bewertungen zu verbessern. Dieser sekundäre Nutzen erhöht den Wert der Gemeinschaft und des Unternehmens weiter. Kurz gesagt, GitHub ist nicht nur ein großartiges Beispiel für eine Exponential Organization, sondern sein Produkt ist auch eine leistungsfähige Vorlage für das ExO-Organisationsmodell: kollaborativ, offen, transparent, gemeinschaftsorientiert und mit Mitarbeitern besetzt, die gut ausgerüstet und bereit sind, Projekte selbst auszuwählen. Außerdem bietet es 10-fache Verbesserungen für verschiedene Funktionen, Arbeitsplätze und Abteilungen. Unterm Strich: GitHub ist eine aufstrebende Organisation, die von Leidenschaft und Zielsetzung angetrieben wird.
+|GitHub | | | |
+|--|--|--|--|
+**MTP:**| *"Social Coding"*| 
+**Staff on Demand:**| Use of the Open Source Community for internal work| **Interfaces:** |Anpassung einer Reihe von Funktionen zur Unterstützung der User (z.B. Instant Messaging); Hauptstärke: hochautomatisierte Kontrollmechanismus und das Workflow-Management|
+**Community & Crowd:**|  New developers (Crowd) are quickly turned into users (Community) due to the collaborative environment. Creation of a new office for all stakeholders to contribute/ learn; open event space available for offline communities  | **Dashboards:** |Monitoring of value metrics about the platform|
+**Algorithms**: |Feedback is codified into algorithms and used for improved version control and workflow| **Experimentation:** |continuous and open iteration of new ideas in every department across the organization|
+**Leveraged Assets:**| GitHub doesn’t own any of the projects hosted on its platform, which itself runs on the cloud. The company does use some of the software from various projects to enhance the platform itself—thus enlisting users into improving their own work environment.| **Autonomy:**| Dezentralization of Authority and decision-making; Self-organizing Teams, focus on applicants with passion, purpose and initiative|
+**Engagement:**|Use of game dynamics; Feedback on new code is accomplished in almost real time| **Social Technologies:** |Use of GitHub internally; Chatroom as the office of the company |
+
 
 ### Large companies 
 what is a large and established organization to do? Answer: Transform. Transformation isn’t easy, however. A big company is like a supertanker: it takes a long time to turn. Nonetheless, it can be done.
