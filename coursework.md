@@ -4,7 +4,7 @@ theme: gaia
 color: #000
 colorSecondary: #333
 backgroundColor: #fff
-size: 16:9
+size: 3:4 
 backgroundImage: url('https://marp.app/assets/hero-background.jpg')
 paginate: true
 
@@ -18,14 +18,14 @@ subject: Digital Organization
 date: 15.11.2022
 
 author: Theresa Maier 
+![bg cover](Background_16.9.jpg)
 
 ---
 ## Agenda
 1. Introduction
-
 2. Definiton
 
-
+![bg cover](Background_16.9.jpg)
 
 ---
 
@@ -37,22 +37,25 @@ author: Theresa Maier
 ---
 ## Statements from the 2000s that you wouldn't believe were actually said that way:
 
-| <sub><sub>Person| <sub><sub>*Statement*|
+|Person| *Statement*|
  --------------------------------------------------------------|-----------------| 
-  | <sub><sub>Steve Jobs (2003): | <sub><sub>*"The subscription model for music has failed"*|
- | <sub><sub>Paul Krugman *(Nobel Prize winner, well-known economist, advisor to several U.S. presidents)* (1998): | <sub><sub>*"The Internet will have no more impact on the economy than the fax machine did"* | 
- |<sub><sub>Steve Ballmer *(Ex-CEO Microsoft)* (2007):| <sub><sub>*"The iPhone will never gain a significant market share in its lifetime. Not a chance."*|
+  |Steve Jobs (2003): | *"The subscription model for music has failed"*|
+ | Paul Krugman *(Nobel Prize winner, well-known economist, advisor to several U.S. presidents)* (1998): | *"The Internet will have no more impact on the economy than the fax machine did"* | 
+ |Steve Ballmer *(Ex-CEO Microsoft)* (2007):| *"The iPhone will never gain a significant market share in its lifetime. Not a chance."*|
 
+
+![bg cover](Background_16.9.jpg)
 
  ---
-## Theoretical Approach to an exponential Age
+### Theoretical Approach to an exponential Age
 
- **Moore's Law**: *The price/performance ratio of computers is doubling every eighteen months*
+**Moore's Law**: *The price/performance ratio of computers is doubling every eighteen months*
 
-**Kurzweil's Law of Accelerating Returns**: 
-- phenomenon applies to every information technology 
-- Once a field, discipline, technology or industry becomes information enabled and driven by information flows, the price/performance doubles approximately annually, and once that doubling starts, it doesn't stop.
-- Intersecting technologies accelerate the pace of innovation even further - as each crossover adds another multiplier to the equation. 
+**Kurzweil's Law of Accelerating Returns**: phenomenon applies to every information technology
+* Once a field, discipline, technology or industry becomes information enabled and driven by information flows, the price/performance doubles approximately annually, and once that doubling starts, it doesn't stop.
+* Intersecting technologies accelerate the pace of innovation even further
+
+![bg cover](Background_16.9.jpg)
 
 ---
 
@@ -60,27 +63,11 @@ author: Theresa Maier
 ![width:25cm height:25cm; saturate:1.0](New_Age.jpg)
 
 ---
-## Example
-Lets look at google.
-accelerating future.
-<!--fit--> test
-
-They developed the [exponential Organization](https://www.entrepreneur.com/growing-a-business/what-is-an-exponential-organization/341439).
-
-#intro
-
-What have these brands in common? 
-- Kodak
-- Polaroid
-- Blockbuster
-- Nokia
-Answer: all of these one-great-industry-dominant companies that were unable to adapt to rapid technological change 
-
-*Iridium moment* --> using linear tools and the trends of the past to predict an accelerating future.
-<!--fit-->
----
 
 # New breed of institutional organism: *the exponential organization(ExO)*
+
+Definition:
+An Exponential Organization (ExO :rocket:) is one *"whose <span style="color:red">impact (or output) is disproportionally large—at least 10x larger—compared to its peers</span> because of the use of new organizational techniques that leverage accelerating technologies"* (Ismail, 2014). 
 
 ### What circumstances have led to exponential progress becoming a survival factor for companies? 
 1. neither age nor size nor reputation nor even current sales guarantee that you will be around tomorrow
@@ -93,7 +80,7 @@ Answer: all of these one-great-industry-dominant companies that were unable to a
  Therefore: There must be a better way to organize! - An exponential one!**
 
 ## Definition:
-An Exponential Organization (ExO) is one whose <span style="color:red">impact (or output) is disproportionally large—at least 10x larger—compared to its peers</span> because of the use of new organizational techniques that leverage accelerating technologies. :rocket:
+An Exponential Organization (ExO) is one whose impact (or output) is disproportionally large—at least 10x larger—compared to its peersbecause of the use of new organizational techniques that leverage accelerating technologies. :rocket:
 
  :arrow_right: Two main assumptions: 
  1. Access resources you don’t own
