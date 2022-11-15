@@ -322,22 +322,11 @@ GitHub is notable for its decentralized, responsive, transparent and self-organi
 what is a large and established organization to do? Answer: Transform. Transformation isn’t easy, however. A big company is like a supertanker: it takes a long time to turn. Nonetheless, it can be done.
 
 identified four such strategies for large organizations to deploy in an accelerating business world while still keeping their core operational businesses intact: 
-1.	Transform leadership. 
-a.	Leadership qualitites – six traits charaterisitcs of ExO leaders
-i.	Visionary Customer Advocate
-ii.	Data driven Experimentalist 
-iii.	Optimistic Realist 
-iv.	Extreme Adaptability 
-v.	Radical Openess 
-vi.	Hyper-confident 
-2.	Partner with, invest in or acquire ExOs. 
-3.	Disrupt[X]. 
-a.	leverage disruptive technologies themselves. The key is for senior management to embrace the idea of radical change—towards new markets—and then reward that acceptance throughout the organization. We call this Disrupt[X], a process that involves three important steps: 
-i.	Inspire ExOs at the edge 
-ii.	Hire a Black Ops Team
-iii.	Copy Google[X]
-iv.	Partner with Accelerators, Incubators and Hackerspaces
-4.	Implement ExO Lite internally.
+1.	Transform of leadership: 
+    * There are 4 ways to transform the leadership layers of a big company: **Education** (Awareness of accelerating technologies); **Board Management** (especially when the company is using OKRs), **Diversity** (in form of putting young people into positions of power and influence), **Leadership Skills** *(six traits characteristics of ExO leaders: Visionary Customer Advocate; Data driven Experimentalist; Optimistic Realist; Extreme Adaptability; Radical O*peness; Hyper-confident)
+2.	Depending on the current circumstances think about the Creation of an internal ExO, the Acquisition of an ExO or an Investment in an external ExO
+3.	Disrupt[X]. Even though this is a very challenging strategy, there is also the possibility of companies leveraging disruptive technologies themselves. 
+4.	Implement ExO Lite internally.Companies can also maintain their status quo and then only adopt some of the characteristics of an ExO (SCALE & IDEAS) in specific areas. Any approach to an ExO can accelerate the business processes and strengthen the competitive position of the company. Therefore, at least a Lite version of a ExO transformation is highly recommended. 
 
 
 # Lets have a look on Google: 
