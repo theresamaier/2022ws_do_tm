@@ -65,7 +65,6 @@ So if we look back now at the tremendous upheavals that have taken place in the 
 Examples: YouTube went from a startup funded by Chad Hurley’s personal credit cards to being purchased by Google for $1.4 billion, all in less than eighteen months. Groupon leapt from conception to $6 billion in value in less than two years. Uber is valued at almost $17 billion, ten times its value of just two years ago.
 - *In ten years, 40 percent of existing Fortune 500 Companies would no longer survive.*
 - The Average lifespan of an S&P 500 company has decreased from sixty-seven years in the 1920s to fifteen years today. And that lifespan is going to get even shorter in the years.
-- For example, a typical CPG (Consumer Packaged Goods) company like Johnson & Johnson or Proctor & Gamble takes about 300 days to go from a new idea to a product on a Walmart shelf. Quirky, a leading ExO, does that same process — new idea to product on a Walmart shelf — in just 29 days
 
 #### All are affected
 Of course, the growing speed also increases the complexity of how business models are built and structured today. But not only new companies, but also long-established ones have to adapt to this. Because not even giant companies are immune from being wiped out by what seems to be a new breed of companies overnight, harnessing the power of exponential technologies, from groupware and data mining to synthetic biology and robotics. This has been demonstrated by the inability to adapt in accordance with rapid change of entire one-great-industry-dominant companies like Kodak, Polaroid, Blockbuster, Nokia among others. 
@@ -81,10 +80,10 @@ In order to understand what it takes for businesses to adapt to the new age, we 
 # New breed of institutional organism: *the exponential organization(ExO)*
 
 ## Definition:
-An Exponential Organization (ExO :rocket:) is one *"whose <span style="color:red">impact (or output) is disproportionally large—at least 10x larger—compared to its peers</span> because of the use of new organizational techniques that leverage accelerating technologies"* (Ismail, 2014). 
+An Exponential Organization (ExO :rocket:) is one *"whose <span style="color:red">impact (or output) is disproportionally large - at least 10x larger - compared to its peers</span> because of the use of new organizational techniques that leverage accelerating technologies"* (Ismail, 2014). 
 
  :arrow_right: There are two major assumptions on which this new way of running businesses is built: 
- 1. **"Rent, Don’t own Access resources you don’t own"**: *ExOs rather use external resources than owning their own assets or workforce.*
+ 1. **"Rent, Don’t own"**: *ExOs rather use external resources than owning their own assets or workforce.*
  2. **"Information accelerates everything and is therefore your greatest asset"**. *(information-based environment delivers fundamentally disruptive opportunities)* 
 
  To summarize it: 
@@ -111,7 +110,7 @@ The formula for ExOs is based on the MTP and the associated external and interna
 
 ![brain_hemispheres_ExO_attributes_metaphor](Two_Brain_Hemispheres_16-9.jpg) 
 
-*Note:  Not every ExO has all ten attributes but the more it has, the more scalable it tends to be. Their research indicates that a minimum of four implemented attributes will achieve the ExO label. SCALE and IDEAS elements are self-reinforcing and integrative. *
+*Note:  Not every ExO has all ten attributes but the more it has, the more scalable it tends to be. Their research indicates that a minimum of four implemented attributes will achieve the ExO label. SCALE and IDEAS elements are self-reinforcing and integrative.*
 
 ### **Let's have a closer look on these attributes:**
 
@@ -247,12 +246,12 @@ Companies can either be established as ExO, or existing companies can take advan
     - **Staff on Demand:** Use contractors, SoD platforms wherever possible; keep FTEs to a minimum. 
     - **Community & Crowd:** Validate idea in MTP communities. Get product feedback. Find co-founders, contractors and experts. Use crowdfunding and crowdsourcing to validate market demand and as a marketing technique. 
     - **Algorithms:** Identify data streams that can be automated and help with product development. Implement cloud-based and open source machine and deep learning to increase insights.
-    - **Leveraged Assets:** Do NOT acquire assets. Use cloud computing, TechShop for product development. Use incubators like Y Combinator and Techstars for office, funding, mentoring and peer input. Starbucks as office. 
+    - **Leveraged Assets:** Do NOT acquire assets. Use cloud computing, TechShop for product development. 
     - **Engagement:** Design product with engagement in mind. Gather all user interactions. Gamify where possible. Create a digital reputational system of users and suppliers to build trust and community. Use incentive prizes to engage crowd and create buzz. - Interfaces: Design custom processes for managing SCALE; do not automate until you’re ready to scale. 
     - **Dashboards:** Set up OKR and value, serendipity, and growth metrics dashboards; do not implement value metrics until product finalized (see Step 10). 
-    - Experimentation: Establish culture of experimentation and constant iteration. Be willing to fail and pivot as needed. 
-    - Autonomy: Implement lite version of Holacracy. Start with the General Company Circle as a first step; then move onto governance meetings. Implement the GitHub technical and organizational model with radical openness, transparency and permission. 
-    - Social Technologies: Implement file sharing, cloud-based document management. Collaboration and activity streams both internally and within your community. Make a plan to test and implement telepresence, virtual worlds and emotional sensing.
+    - **Experimentation:** Establish culture of experimentation and constant iteration. Be willing to fail and pivot as needed. 
+    - **Autonomy:** Implement lite version of Holacracy. Start with the General Company Circle as a first step; then move onto governance meetings. Implement the GitHub technical and organizational model with radical openness, transparency and permission. 
+    - **Social Technologies:** Implement file sharing, cloud-based document management. Collaboration and activity streams both internally and within your community. Make a plan to test and implement telepresence, virtual worlds and emotional sensing.
 9. Establish the Culture
 10. Ask Key Questions Periodically
     * Who is your customer? 
@@ -303,7 +302,7 @@ identified four such strategies for large organizations to deploy in an accelera
     * There are 4 ways to transform the leadership layers of a big company: **Education** (Awareness of accelerating technologies); **Board Management** (especially when the company is using OKRs), **Diversity** (in form of putting young people into positions of power and influence), **Leadership Skills** *(six traits characteristics of ExO leaders: Visionary Customer Advocate; Data driven Experimentalist; Optimistic Realist; Extreme Adaptability; Radical Openness; Hyper-confident)
 2.	Depending on the current circumstances think about the Creation of an internal ExO, the Acquisition of an ExO or an Investment in an external ExO
 3.	Disrupt[X]. Even though this is a very challenging strategy, there is also the possibility of companies leveraging disruptive technologies themselves. 
-4.	Implement ExO Lite internally.Companies can also maintain their status quo and then only adopt some of the characteristics of an ExO (SCALE & IDEAS) in specific areas. Any approach to an ExO can accelerate the business processes and strengthen the competitive position of the company. Therefore, at least a Lite version of a ExO transformation is highly recommended. 
+4.	Implement ExO Lite internally. Companies can also maintain their status quo and then only adopt some of the characteristics of an ExO (SCALE & IDEAS) in specific areas. Any approach to an ExO can accelerate the business processes and strengthen the competitive position of the company. Therefore, at least a Lite version of a ExO transformation is highly recommended. 
 
 
 # Lets have a look on Google: 
