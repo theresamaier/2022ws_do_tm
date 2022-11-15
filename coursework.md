@@ -1,21 +1,12 @@
 ---
-marp: true
-theme: gaia
-_class: lead
-paginate: true
-size: 16:9
-backgroundColor: #fff
-backgroundImage: url('https://marp.app/assets/hero-background.svg')
----
 
 # Welcome to my presentation about Exponential Organizations
 
 subject: Digital Organization
 date: 15.11.2022
 author: Theresa Maier
-
 ![bg cover](Background_16.9.jpg)
-
+paginate: true
 ---
 
 
