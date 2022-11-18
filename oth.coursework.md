@@ -63,7 +63,7 @@ An Exponential Organization (ExO :rocket:) is one *"whose impact (or output) is 
 ## ExO characteristics 
 ExO formula: 
 MTP *(Massive Transformative Purpose)* + IDEAS + SCALE
-![width:19cm height:19cm; saturate:2.0](brain_hemispheres_ExO_attributes_metaphor.png)
+![width:19cm height:19cm; saturate:2.0](Two_Brain_Hemispheres_16-9.jpg)
 
 
 ---
