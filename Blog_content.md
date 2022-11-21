@@ -1,7 +1,7 @@
  
  
  # Welcome to my blog on exponential organizations.
- ***Learn more about what's behind the Iridium Moment and why organizations should strive to become a unicorn :unicorn: company . Enjoy reading.*** 
+ ***Learn more about what's behind the Iridium Moment and why organizations should strive to become a unicorn :unicorn: company. Enjoy reading.*** 
 
 ## Have you ever heard of the Iridium Moment? 
 ![Iridium_Google_ExO](Google_Iridium_16-9.jpg) 
@@ -11,7 +11,7 @@
 
  
  
- The label **Iridium moment** has its origin from the late 1980s as the telecommunications giant motorola unfortunately made a serious strategic dumb decision due to incorrect assessments of future developments. Motorola recognized the coming boom in demand for cell phones, but underestimated the benefits of local radio towers. From Motorola's point of view, these were not sufficiently effective and were comparatively cost-intensive and limited to urban areas. They saw a great opportunity in the expansion of the satellite system and founded the company Iridium with the mission to provide mobile radio coverage all over the world. However, by the time the satellites were up and running, the assumptions on which the strategic decision to establish Iridium was based were no longer valid. By then, the range and performance of local radio towers had improved dramatically and costs had decreased. The use of linear Tools and trends from the past led Motorola to incorrectly predict an accelerating future and thus thus shaped the expression **Irdidium moment**.
+ The label **Iridium moment** has its origin from the late 1980s as the telecommunications giant motorola unfortunately made a serious strategic bad decision due to incorrect assessments of future developments. Motorola recognized the coming boom in demand for cell phones, but underestimated the benefits of local radio towers. From Motorola's point of view, these were not sufficiently effective and were comparatively cost-intensive and limited to urban areas. They saw a great opportunity in the expansion of the satellite system and founded the company Iridium with the mission to provide mobile radio coverage all over the world. However, by the time the satellites were up and running, the assumptions on which the strategic decision to establish Iridium was based were no longer valid. By then, the range and performance of local radio towers had improved dramatically and costs had decreased. The use of linear Tools and trends from the past led Motorola to incorrectly predict an accelerating future and thus thus shaped the expression **Irdidium moment**.
 
  It is not rare that wrong strategic decisions are made on the basis of wrong assumptions and estimates. In particular, the rapid advancement of technology and thus the establishment of mobile devices has led to many miscalculations. 
 
@@ -187,6 +187,7 @@ The OKR method is particularly characterized by its success due to transparency 
 In fact, the OKR method works in cycles - mostly in a quarterly rhythm. A cycle is composed of the following phases: 
 **Drafting of OKRs** (max. 5 per business unit): As the name suggests, the key elements are the Objectives and Key Results: the Objective should define where we want to go.  When drafting **Objectives**, two questions should be asked: Who is our customer? and What value are we creating? The Objectives should have a clear focus on the customer and business value and be qualitative. It is also important to find a balance between inspiration, ambition and feasibility in the drafting process. 
 **Key Results** should be used to measure whether the goals have been achieved. These should be quantitative, measurable and, above all, influenceable. They act as lead indicators for the Initiatives. It is important that a maximum of 5 KRs per objective are defined and that they are limited in time. To ensure success, the KRs should be accepted by all stakeholders. 
+**The OKR of SpaceX for example could look like this:** Strategic level: O: "We have to built first sustainable city on Mars"; KR for Mars mission goal: "We raised 2.5 billion euros for our first unit of wle space travel." . - Project level: I: We launched a crowdfunding campaign on Kickstarter. 
 In the **Alignment Workshop**, the drafted OKRs and their responsibilities are exchanged and dependencies and potential for collaboration are identified. Refinement of OKRs can be done as needed in this phase. 
 **Drafting initiatives**: Defining concrete actions to achieve the KRs and Objectives for the upcoming cycle. 
 After the Kick-off, **check-ins** are conducted on a bi-weekly basis. Towards the end, the **retroperspective** and **review** takes place. By reflecting and comparing the actual goal realization, the entire work process can be improved for the next OKR cycle and open to.dos can be taken into the drafting of the upcoming cycle. 
@@ -194,7 +195,6 @@ Andrew Grove developed the new OKR framework in the 1970s (Book recommendation: 
 OKRs at Google: In 1999, John Doerr introduces OKRS to the founders at Google. He is also the author of the later famous bestseller: [*"Measure What Matters"*](https://www.whatmatters.com). Since 2000 Google has been using OKRs and growing exponentially. OKRs at Google are part of the culture, DNA and of the language that you use at Google. For a deepdive have a look on this video: [How Google sets goals OKRs](https://www.youtube.com/watch?v=mJB83EZtAjc).
 The success of the OKR method has also encouraged investment in tools to simplify and manage OKRs. For example, Google itself uses several OKR tools such as Google Sites, Wikis, and Google Spreadsheets. While the formulation and measurement of goals takes place in Google Docs and Sheets for many teams, Google has also developed its own measures, such as the customizable tool to evaluate OKRs.
 Nowadays thousands of companies successfully implemented OKRs: Scout 24, ProSieben, amazon, zalando, Red Bull, Edeka, Burda, N26, Siemens. 
-**Example of an OKR from SpaceX:** Strategic level: O: "We have to built first sustainable city on Mars"; KR for Mars mission goal: "We raised 2.5 billion euros for our first unit of wle space travel." . - Project level: I: We launched a crowdfunding campaign on Kickstarter. 
 
 ### <span style="color:red">**E**</span>xperimentation
 This refers to the testing of assumptions and constant experimentation with controlled risks. This allows processes to be adapted to the rapidly changing external factors and huge and quick learnings. You may already be familiar with this from the start-up environment, such as the [lean startup methodology](https://www.universitylabpartners.org/blog/what-is-lean-startup-methodology). It involves a continuous loop of  (ideas) building, (code) measuring, (data) learning and thus a continuous improvement process, as proposed by Kaizen. Also the prototyping (Eric Ries) in which a Mininmum-Viable Product is built on which then the iteration loops start is to be emphasized in this context. In general, this enables faster time to a product launch. Thus, experimentation can help maximize value creation in different ways. 
@@ -243,11 +243,12 @@ Companies can either be established as ExO, or existing companies can take advan
     - **Referral:** Do users tell others? (Growth metric)
 8. Implement SCALE and IDEAS
     - **MTP:** Formulate an MTP in a particular problem space, one that all founders feel passionate about. 
-    - **Staff on Demand:** Use contractors, SoD platforms wherever possible; keep FTEs to a minimum. 
+    - **Staff on Demand:** Use contractors wherever possible; keep FTEs to a minimum. 
     - **Community & Crowd:** Validate idea in MTP communities. Get product feedback. Find co-founders, contractors and experts. Use crowdfunding and crowdsourcing to validate market demand and as a marketing technique. 
     - **Algorithms:** Identify data streams that can be automated and help with product development. Implement cloud-based and open source machine and deep learning to increase insights.
     - **Leveraged Assets:** Do NOT acquire assets. Use cloud computing, TechShop for product development. 
-    - **Engagement:** Design product with engagement in mind. Gather all user interactions. Gamify where possible. Create a digital reputational system of users and suppliers to build trust and community. Use incentive prizes to engage crowd and create buzz. - Interfaces: Design custom processes for managing SCALE; do not automate until you’re ready to scale. 
+    - **Engagement:** Design product with engagement in mind. Gather all user interactions. Gamify where possible. Create a digital reputational system of users and suppliers to build trust and community. Use incentive prizes to engage crowd and create buzz. 
+    - **Interfaces:** Design custom processes for managing SCALE; do not automate until you’re ready to scale. 
     - **Dashboards:** Set up OKR and value, serendipity, and growth metrics dashboards; do not implement value metrics until product finalized (see Step 10). 
     - **Experimentation:** Establish culture of experimentation and constant iteration. Be willing to fail and pivot as needed. 
     - **Autonomy:** Implement lite version of Holacracy. Start with the General Company Circle as a first step; then move onto governance meetings. Implement the GitHub technical and organizational model with radical openness, transparency and permission. 
@@ -299,7 +300,7 @@ what is a large and established organization to do? Answer: Transform. Transform
 
 identified four such strategies for large organizations to deploy in an accelerating business world while still keeping their core operational businesses intact: 
 1.	Transform of leadership: 
-    * There are 4 ways to transform the leadership layers of a big company: **Education** (Awareness of accelerating technologies); **Board Management** (especially when the company is using OKRs), **Diversity** (in form of putting young people into positions of power and influence), **Leadership Skills** *(six traits characteristics of ExO leaders: Visionary Customer Advocate; Data driven Experimentalist; Optimistic Realist; Extreme Adaptability; Radical Openness; Hyper-confident)
+    * There are 4 ways to transform the leadership layers of a big company: **Education** (Awareness of accelerating technologies); **Board Management** (especially when the company is using OKRs), **Diversity** (in form of putting young people into positions of power and influence), **Leadership Skills** (six traits characteristics of ExO leaders: Visionary Customer Advocate; Data driven Experimentalist; Optimistic Realist; Extreme Adaptability; Radical Openness; Hyper-confident)
 2.	Depending on the current circumstances think about the Creation of an internal ExO, the Acquisition of an ExO or an Investment in an external ExO
 3.	Disrupt[X]. Even though this is a very challenging strategy, there is also the possibility of companies leveraging disruptive technologies themselves. 
 4.	Implement ExO Lite internally. Companies can also maintain their status quo and then only adopt some of the characteristics of an ExO (SCALE & IDEAS) in specific areas. Any approach to an ExO can accelerate the business processes and strengthen the competitive position of the company. Therefore, at least a Lite version of a ExO transformation is highly recommended. 
@@ -325,7 +326,7 @@ Google is considered one of the most data-driven companies, which must be essent
 
 The value of information in today's world also becomes clear with regard to Google's innovations for generating and profiting from information on a completely different scale. Worth mentioning here is, for example, the Google car with its lidar (light radar), which scans the surroundings with sixty-four lasers. This generates almost a gigabyte of data per second per car and creates a 3D image of its surroundings with a resolution of one centimeter, which can be merged into a live 3D map of the surroundings with a range of about a hundred meters. But it also revolutionizes the quality of information, since it is not just static information, but dynamic information - data that captures how things change. 
 
-Another example is Google Glass, the smart glasses that can record or transmit videos or images in real time as people move throughout the day. 
+Another example is the Google Glass innovation: The smart glasses that can record or transmit videos or images in real time as people move throughout the day. 
 
 ### Continuous Improvement through experimentation as an essential competitive factor
 
